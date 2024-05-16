@@ -1,0 +1,3249 @@
+{
+    "nextPage": {
+        "pageSize": 18,
+        "itemTypesMaxTime": {
+            "RECOMMENDATION": 1713024363000
+        },
+        "itemTypesMinTime": {},
+        "categoryIds": [
+            29
+        ],
+        "creatorUuids": [],
+        "placements": [],
+        "sort": "UNSPECIFIED",
+        "source": "SUGGESTED",
+        "version": 3
+    },
+    "feedItemDtos": [
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715714993000,
+            "item": {
+                "id": 480621,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2677048,
+                            "socialismId": 480621,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480621
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2677051,
+                            "socialismId": 480621,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480621
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2677046,
+                            "socialismId": 480621,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480621
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I’ve recommended this to everyone. As a ski patroller, we practice Avy rescue scenarios, and this shovel is fantastic. It’s lightweight, has a D handle, and goes into hoe mode while being able to store flat, plus is cuts through firm snow quite well. Construction is ideal, having a welded collar for the shaft to slide into, and the shaft is oval, so when deploying the pins are lined up when extending. Excellent choice, and I’m unaware of a better one on the market. Lighter when it comes to rescue equipment is not the way to go, get a tool that will do the job well when it comes to saving your friend’s life. ",
+                "childEntities": [],
+                "createdTime": 1715714993000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1715714993000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1715714994000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Best Avy Shovel",
+                "url": "/review/480621",
+                "voteCountDto": {
+                    "upVotes": 1,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715714993000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6302771,
+                    "uuid": "A02B66C718F844B7889A9FDE876DB0F4",
+                    "creatorType": "USER",
+                    "displayName": "Valentino Ciccarelli",
+                    "firstName": "Valentino",
+                    "lastName": "Ciccarelli",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1701180172/wpglpysauprbqr7vnlkw.jpg",
+                    "profileLink": "/user/A02B66C718F844B7889A9FDE876DB0F4/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 3315,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Ski Patrollers",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/skipatrol.png?m=1677858748000",
+                            "teamKey": "skipatrol",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-27T17:00:00-0700",
+                            "expirationDate": "2024-11-26T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 431522,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Mt. Ashland Ski Area",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/465912/contrib/images/Ski_220x100.jpg?m=1538583941000",
+                            "teamKey": "mtashlandskiarea",
+                            "teamPrivateToProfile": false,
+                            "orgId": 465912,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-27T17:00:00-0700",
+                            "expirationDate": "2024-11-26T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-01-03T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Valentino Ciccarelli",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "2620-00060",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 48729,
+                    "ownerDescription": "MAMMUT",
+                    "ownerKey": "mammut",
+                    "description": "Alugator Pro Light Hoe",
+                    "imageFilename": "2620-00060-0001_main-grey_141100.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/mammut/images/product/src/sc.400.400.bf/2620-00060-0001_main-grey_141100.jpg",
+                    "url": "/product/mammut-alugator-pro-light-hoe/48729?p=2620-00060",
+                    "metadata": {
+                        "currentDescription": "Alugator Pro Light Hoe",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/mammut/images/product/src/sc.400.400.bf/2620-00060-0001_main-grey_141100.jpg",
+                        "currentImageFile": "2620-00060-0001_main-grey_141100.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715525687000,
+            "item": {
+                "id": 480086,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2673505,
+                            "socialismId": 480086,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480086
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 2,
+                            "id": 2673508,
+                            "socialismId": 480086,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480086
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2673506,
+                            "socialismId": 480086,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480086
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "Have had multiple issues with these poles. The locking mechanism slips regularly and needs to be tightened often. The top section has pulled completely out of the locking mechanism multiple times leading to the whole bottom section of the pole falling out while skiing. A basket has also broken off in the 5 or so months that I've used them. \nWhen they work they're great and have a good grip but overall they're very underwhelming. ",
+                "childEntities": [],
+                "createdTime": 1715525687000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1715525687000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "2",
+                    "stars": "2"
+                },
+                "modifiedTime": 1715525687000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Poor quality ",
+                "url": "/review/480086",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715525687000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 4982824,
+                    "uuid": "AC8AE29EE2E64D85ADD42A188AEDBFBE",
+                    "creatorType": "USER",
+                    "displayName": "Talen Fischer",
+                    "firstName": "Talen",
+                    "lastName": "Fischer",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1579801044/gc3dh3soyt3eryt34rzf.jpg",
+                    "profileLink": "/user/AC8AE29EE2E64D85ADD42A188AEDBFBE/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 2093,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "AIARE",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/172959/contrib/images/aiare.jpg?m=1341238192000",
+                            "teamKey": "aiare",
+                            "teamPrivateToProfile": false,
+                            "orgId": 172959,
+                            "status": "ACTIVE",
+                            "creationDate": "2019-11-10T17:00:00-0700",
+                            "expirationDate": "2024-07-14T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 494752,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Weston AIARE 1 VIP",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/0ddbad052aa0ec55/1714683177000/brandAvatar.png",
+                            "teamKey": "westonaiare1vip",
+                            "teamPrivateToProfile": false,
+                            "orgId": 465688,
+                            "status": "EXPIRED",
+                            "creationDate": "2021-04-04T18:00:00-0600",
+                            "expirationDate": "2022-04-08T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 1585,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "United States Ski and Snowboard Association",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/143673/contrib/images/ussa.png?m=1618589740000",
+                            "teamKey": "usss",
+                            "teamPrivateToProfile": false,
+                            "orgId": 143673,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-03T18:00:00-0600",
+                            "expirationDate": "2024-11-02T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Talen Fischer",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "POLADJALLOY",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 96485,
+                    "ownerDescription": "Liberty Skis",
+                    "ownerKey": "libertyskis",
+                    "description": "Liberty Backcountry Adjustable Alloy Pole",
+                    "imageFilename": "BC-Adjustable-Alloy.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/libertyskis/images/product/src/sc.400.400.bf/BC-Adjustable-Alloy.jpg",
+                    "url": "/product/liberty-skis-liberty-backcountry-adjustable-alloy-pole/96485?p=POLADJALLOY",
+                    "metadata": {
+                        "currentDescription": "Liberty Backcountry Adjustable Alloy Pole",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/libertyskis/images/product/src/sc.400.400.bf/BC-Adjustable-Alloy.jpg",
+                        "currentImageFile": "BC-Adjustable-Alloy.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715029428000,
+            "item": {
+                "id": 478994,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2666327,
+                            "socialismId": 478994,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478994
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2676386,
+                            "socialismId": 478994,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478994
+                        }
+                    ],
+                    "VIDEO": [
+                        {
+                            "attributeKey": "videos",
+                            "value": [
+                                {
+                                    "duration": 99.1433,
+                                    "sortOrder": 2,
+                                    "thumbnailUrl": "https://res.cloudinary.com/experticity/video/upload/v1715206419/smpatky4kelk4ncylben.png",
+                                    "url": "https://res.cloudinary.com/experticity/video/upload/v1715206419/smpatky4kelk4ncylben.mov",
+                                    "variations": [
+                                        {
+                                            "type": "m3u8",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/sp_4k/v1715206419/smpatky4kelk4ncylben.m3u8",
+                                            "id": 2225,
+                                            "videoId": 673
+                                        },
+                                        {
+                                            "type": "mpd",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/sp_4k/v1715206419/smpatky4kelk4ncylben.mpd",
+                                            "id": 2226,
+                                            "videoId": 673
+                                        },
+                                        {
+                                            "type": "mp4",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/vc_auto/v1715206419/smpatky4kelk4ncylben.mp4",
+                                            "id": 2227,
+                                            "videoId": 673
+                                        },
+                                        {
+                                            "type": "mp4",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/fl_attachment/v1715206419/smpatky4kelk4ncylben.mp4",
+                                            "id": 2228,
+                                            "videoId": 673
+                                        }
+                                    ],
+                                    "id": 673
+                                }
+                            ],
+                            "id": 2669304,
+                            "socialismId": 478994,
+                            "attributeType": "VIDEO",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478994
+                        }
+                    ],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3072,w_3072,x_920,y_0/c_limit,h_450,q_auto:good,w_450/v1715029245/re8ubmyyejgbtjkiqtrq.jpg",
+                                    "cropX": 920,
+                                    "cropY": 0,
+                                    "cropWidth": 3072,
+                                    "cropHeight": 3072,
+                                    "sortOrder": 0,
+                                    "id": 33880,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3072,w_3072,x_920,y_0/c_limit,h_450,q_auto:good,w_450/v1715029245/re8ubmyyejgbtjkiqtrq.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3072,w_3072,x_920,y_0/c_limit,h_650,q_auto:best,w_650/v1715029245/re8ubmyyejgbtjkiqtrq.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1536,w_1536,x_0,y_132/c_limit,h_450,q_auto:good,w_450/v1715029420/vsfewgiscum2bykbw9pf.jpg",
+                                    "cropX": 0,
+                                    "cropY": 132,
+                                    "cropWidth": 1536,
+                                    "cropHeight": 1536,
+                                    "sortOrder": 1,
+                                    "id": 33881,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1536,w_1536,x_0,y_132/c_limit,h_450,q_auto:good,w_450/v1715029420/vsfewgiscum2bykbw9pf.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1536,w_1536,x_0,y_132/c_limit,h_650,q_auto:best,w_650/v1715029420/vsfewgiscum2bykbw9pf.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2666325,
+                            "socialismId": 478994,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478994
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2666328,
+                            "socialismId": 478994,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478994
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2666330,
+                            "socialismId": 478994,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478994
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "Bought these skis for late spring touring, and they performed as advertised. Incredibly light paired with the Dynafit Speed Radical bindings, and made the uphill a breeze. I barely felt them on my pack for bootpacks to the summit. They can get a little squirrelly in variable snow conditions, and took me a minute to figure out that these skis like a more forward stance. With spring corn they skiied great, and the weight was appreciated navigating the tight trees back to the trailhead. For what they are designed for (long tours/ski mountaineering) this is a great set-up!",
+                "childEntities": [],
+                "createdTime": 1715029428000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": true,
+                "lastCreatorEdit": 1715697055000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "2",
+                    "videoCount": "1",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1715697055000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great lightweight spring touring ski",
+                "url": "/review/478994",
+                "voteCountDto": {
+                    "upVotes": 1,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715697055000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 3224042,
+                    "uuid": "A842FCA34F04461CB6E1CCCAC13CF301",
+                    "creatorType": "USER",
+                    "displayName": "Nate Tunnell",
+                    "firstName": "Nate",
+                    "lastName": "Tunnell",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1667342774/kuqgtjoazgl9sfk4gf9h.png",
+                    "profileLink": "/user/A842FCA34F04461CB6E1CCCAC13CF301/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 14,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "ExpertVoice Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/1349/contrib/images/experticitynewlogo.jpg?m=1485990696000",
+                            "teamKey": "evemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1349,
+                            "status": "ACTIVE",
+                            "creationDate": "2016-07-05T18:00:00-0600",
+                            "expirationDate": "2025-02-12T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 1288,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Boa Technology Component Team",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/d2d58f95e3cd5a05/1714580749000/brandAvatar.png",
+                            "teamKey": "boaexchange",
+                            "teamPrivateToProfile": false,
+                            "orgId": 76740,
+                            "status": "EXPIRED",
+                            "creationDate": "2016-07-16T18:00:00-0600",
+                            "expirationDate": "2016-07-18T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 408982,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Category Expert - CLOSED",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/mfg/experticitycategory/contrib/images/experticitynewlogo.jpg?m=1496420996000",
+                            "teamKey": "categoryexpert",
+                            "teamPrivateToProfile": false,
+                            "orgId": 444384,
+                            "status": "EXPIRED",
+                            "creationDate": "2017-04-17T18:00:00-0600",
+                            "expirationDate": "2018-07-16T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 505060,
+                            "teamType": "PROGRAM",
+                            "teamName": "Elite Experts Program Team",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/7a105144013b615e/1712787829000/brandAvatar.png",
+                            "teamKey": "eliteexperts1631037083",
+                            "teamPrivateToProfile": false,
+                            "orgId": 48166,
+                            "status": "EXPIRED",
+                            "creationDate": "2022-01-05T17:00:00-0700",
+                            "expirationDate": "2023-08-18T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 520751,
+                            "teamType": "PROGRAM",
+                            "teamName": "Elite Experts 2.0",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/7a105144013b615e/1712787829000/brandAvatar.png",
+                            "teamKey": "eliteexperts21674167999",
+                            "teamPrivateToProfile": false,
+                            "orgId": 48166,
+                            "status": "EXPIRED",
+                            "creationDate": "2023-01-24T17:00:00-0700",
+                            "expirationDate": "2024-01-25T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 521729,
+                            "teamType": "PROGRAM",
+                            "teamName": "Mammut Collective",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/4d84619d8a802d1a/1714768818000/brandAvatar.png",
+                            "teamKey": "mammutcollective1678379372",
+                            "teamPrivateToProfile": false,
+                            "orgId": 48729,
+                            "status": "EXPIRED",
+                            "creationDate": "2023-05-10T18:00:00-0600",
+                            "expirationDate": "2024-05-10T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-03-13T06:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Nate Tunnell",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "08-0000048492",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 53934,
+                    "ownerDescription": "Dynafit",
+                    "ownerKey": "dynafit",
+                    "description": "BlackLight 88 Ski",
+                    "imageFilename": "08-0000048492_5108.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/dynafit/images/product/src/sc.400.400.bf/08-0000048492_5108.jpg",
+                    "url": "/product/dynafit-blacklight-88-ski/53934?p=08-0000048492",
+                    "metadata": {
+                        "currentDescription": "BlackLight 88 Ski",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/dynafit/images/product/src/sc.400.400.bf/08-0000048492_5108.jpg",
+                        "currentImageFile": "08-0000048492_5108.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714809046000,
+            "item": {
+                "id": 478443,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2662668,
+                            "socialismId": 478443,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478443
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2662672,
+                            "socialismId": 478443,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478443
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2662671,
+                            "socialismId": 478443,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478443
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "It does everything you want a technical fleece to do. I mostly use it bc and resort skiing, it floats between being primary midlayer and the layer immediately above my baselayer. Long torso, long sleeves, correct collar size, cut for range of motion without bunching up under clothing, fits true to size. Also the klein blue color is just cool.",
+                "childEntities": [],
+                "createdTime": 1714809046000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714809046000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714809047000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "New favorite fleece",
+                "url": "/review/478443",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714809046000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 4965095,
+                    "uuid": "5E145020E8D04FA4B40FF3FC7B86691F",
+                    "creatorType": "USER",
+                    "displayName": "Martin Taylor",
+                    "firstName": "Martin",
+                    "lastName": "Taylor",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1573352386/n6akdrnojxwmnllsatdu.jpg",
+                    "profileLink": "/user/5E145020E8D04FA4B40FF3FC7B86691F/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 925,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "USA Cycling",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/105418/contrib/images/USACyclingFS.jpg?m=1533665126000",
+                            "teamKey": "usacycling",
+                            "teamPrivateToProfile": false,
+                            "orgId": 105418,
+                            "status": "EXPIRED",
+                            "creationDate": "2019-11-22T17:00:00-0700",
+                            "expirationDate": "2021-10-28T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 448522,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Mazamas Members",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/482643/contrib/images/mazamaslogo.jpg?m=1566424462000",
+                            "teamKey": "membersmazamas",
+                            "teamPrivateToProfile": false,
+                            "orgId": 482643,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-08-18T18:00:00-0600",
+                            "expirationDate": "2024-09-18T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 464,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "NOLS Alumni",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/58915/contrib/images/NOLS---Alumni.jpg?m=1355430769000",
+                            "teamKey": "nolsalumni",
+                            "teamPrivateToProfile": false,
+                            "orgId": 58915,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-01-01T17:00:00-0700",
+                            "expirationDate": "2099-12-30T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 2093,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "AIARE",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/172959/contrib/images/aiare.jpg?m=1341238192000",
+                            "teamKey": "aiare",
+                            "teamPrivateToProfile": false,
+                            "orgId": 172959,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-12T17:00:00-0700",
+                            "expirationDate": "2025-02-11T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 410473,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Wilderness First Responders",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/wfr.png?m=1684168697000",
+                            "teamKey": "WildernessMedicineExperts",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-12T17:00:00-0700",
+                            "expirationDate": "2026-02-11T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Martin Taylor",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "1985321",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 2082,
+                    "ownerDescription": "Mountain Hardwear",
+                    "ownerKey": "mtnhardwear",
+                    "description": "Men's Polartec Power Grid Half Zip Jacket",
+                    "imageFilename": "1985321_450_f?wid=4000.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/mtnhardwear/images/product/src/sc.400.400.bf/1985321_450_f?wid=4000.jpg",
+                    "url": "/product/mountain-hardwear-mens-polartec-power-grid-half-zip-jacket/2082?p=1985321",
+                    "metadata": {
+                        "currentDescription": "Men's Polartec Power Grid Half Zip Jacket",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/mtnhardwear/images/product/src/sc.400.400.bf/1985321_450_f?wid=4000.jpg",
+                        "currentImageFile": "1985321_450_f?wid=4000.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714684714000,
+            "item": {
+                "id": 478131,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2660510,
+                            "socialismId": 478131,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478131
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2660509,
+                            "socialismId": 478131,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478131
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2660507,
+                            "socialismId": 478131,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 478131
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I went for the Climb 2.0.  I have found these to be easy on and off. I stuck to the side of the hill when I needed to and the glide was just right for me.  I don't need to race up the hill but I also don't take my time. In particular, I don't like to do more work than necessary and these skins suit my style well.  Right out of the great smelling box, I found that it was very easy to size these to my skis.  I can't speak too much to the durability since it was just one season of use and not many tours at that, but so far it seems like they will last a while.  Additionally, I have added these to my patrol pack since they don't take up too much extra space. ",
+                "childEntities": [],
+                "createdTime": 1714684714000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714684714000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714684715000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Performance as expected",
+                "url": "/review/478131",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714684714000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6143657,
+                    "uuid": "A338728A9B3B4974ABC575742D507855",
+                    "creatorType": "USER",
+                    "displayName": "Jenny Knoth",
+                    "firstName": "Jenny",
+                    "lastName": "Knoth",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:FDA043,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JK/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/A338728A9B3B4974ABC575742D507855/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 3315,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Ski Patrollers",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/skipatrol.png?m=1677858748000",
+                            "teamKey": "skipatrol",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-04-30T18:00:00-0600",
+                            "expirationDate": "2025-04-24T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2023-11-15T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Jenny Knoth",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "10-0012512012",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 53934,
+                    "ownerDescription": "Dynafit",
+                    "ownerKey": "dynafit",
+                    "description": "Climb 2.0 Ready2C 120MM CF V2",
+                    "imageFilename": "Climb 2_0 R2C.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/dynafit/images/product/src/sc.400.400.bf/Climb 2_0 R2C.jpg",
+                    "url": "/product/dynafit-climb-2-0-ready2c-120mm-cf-v2/53934?p=10-0012512012",
+                    "metadata": {
+                        "currentDescription": "Climb 2.0 Ready2C 120MM CF V2",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/dynafit/images/product/src/sc.400.400.bf/Climb 2_0 R2C.jpg",
+                        "currentImageFile": "Climb 2_0 R2C.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714491379000,
+            "item": {
+                "id": 477558,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2656728,
+                            "socialismId": 477558,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477558
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2656732,
+                            "socialismId": 477558,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477558
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2656734,
+                            "socialismId": 477558,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477558
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "Pumped to be able to get myself a pair of these at such a great price. ChromaPop lenses are the real deal, and these come with 2 different lenses! XL frames make sure no air gets in while skiing and creates fog. I will say to be careful when cleaning the inside of the lens because oils from your fingers can mess with the anti-fog. Lenses aren't super easy to change, but you get the hang of it after doing it a few times. If you're worried about that, pay a bit extra for the Mag versions.",
+                "childEntities": [],
+                "createdTime": 1714491379000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714491379000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714491379000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great Goggles",
+                "url": "/review/477558",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714491379000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6370081,
+                    "uuid": "CD1F0C15C9AA43EB88D035F93FF9DC81",
+                    "creatorType": "USER",
+                    "displayName": "Nick Winter",
+                    "firstName": "Nick",
+                    "lastName": "Winter",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1714155207/pyhmy6fvtpnu9w1q0yfw.jpg",
+                    "profileLink": "/user/CD1F0C15C9AA43EB88D035F93FF9DC81/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 533401,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Wells Lamont Employees",
+                            "teamKey": "wellslamont",
+                            "teamPrivateToProfile": false,
+                            "orgId": 563072,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-28T17:00:00-0700",
+                            "expirationDate": "2025-02-27T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Nick Winter",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "SQUAD_XL_1_1002028019",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 2445,
+                    "ownerDescription": "SMITH",
+                    "ownerKey": "smith",
+                    "description": "Squad XL",
+                    "imageFilename": "SQX2CPPCLD19.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/smith/images/product/src/sc.400.400.bf/SQX2CPPCLD19.jpg",
+                    "url": "/product/smith-squad-xl/2445?p=SQUAD_XL_1_1002028019",
+                    "metadata": {
+                        "currentDescription": "Squad XL",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/smith/images/product/src/sc.400.400.bf/SQX2CPPCLD19.jpg",
+                        "currentImageFile": "SQX2CPPCLD19.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714457069000,
+            "item": {
+                "id": 477491,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2656275,
+                            "socialismId": 477491,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477491
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2656279,
+                            "socialismId": 477491,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477491
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2656278,
+                            "socialismId": 477491,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477491
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I first bought this hoodie in the non-zip version and loved it so much I bought a second with the full zip. Love the fit, supremely comfy, great colors, and it's super functional for outdoor activity. Rivals the Patagonia R1. I have used it on sub zero days all the way up to 40 degrees and it works for all. Super breathable even though the material feels thick. Hasn't been too hot during activity, and I've used it on runs, backcountry skis, or just hanging on the couch and it passes the test for all. Love it.",
+                "childEntities": [],
+                "createdTime": 1714457069000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714457069000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714457070000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Perfect 4 season hoodie",
+                "url": "/review/477491",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714457069000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5768787,
+                    "uuid": "5E092A3A0F7044259A61EF5FA03782D1",
+                    "creatorType": "USER",
+                    "displayName": "Emily Cohn",
+                    "firstName": "Emily",
+                    "lastName": "Cohn",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:FDA043,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:EC/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/5E092A3A0F7044259A61EF5FA03782D1/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1295,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "The American Alpine Club Members",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/128341/contrib/images/theamericanalpineclubnewlogo.jpg?m=1422488514000",
+                            "teamKey": "aac",
+                            "teamPrivateToProfile": false,
+                            "orgId": 128341,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-01-06T17:00:00-0700",
+                            "expirationDate": "2025-01-31T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-02-08T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Emily Cohn",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "300531",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 54967,
+                    "ownerDescription": "Outdoor Research",
+                    "ownerKey": "outdoorresearch",
+                    "description": "Women's Mega Trail Mix Fleece Full Zip Hoodie",
+                    "imageFilename": "3005312450A1.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/outdoorresearch/images/product/src/sc.400.400.bf/3005312450A1.jpg",
+                    "url": "/product/outdoor-research-womens-mega-trail-mix-fleece-full-zip-hoodie/54967?p=300531",
+                    "metadata": {
+                        "currentDescription": "Women's Mega Trail Mix Fleece Full Zip Hoodie",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/outdoorresearch/images/product/src/sc.400.400.bf/3005312450A1.jpg",
+                        "currentImageFile": "3005312450A1.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714456900000,
+            "item": {
+                "id": 477490,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2656272,
+                            "socialismId": 477490,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477490
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2656270,
+                            "socialismId": 477490,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477490
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2656274,
+                            "socialismId": 477490,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477490
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I have been looking for an alternative to my Patagonia R1 and have never found anything I liked as much. This hoodie rivals the R1, with an even better fit and design. I love the comfy cut, the thumb holes, and the colors. I have used it on winter runs, backcountry ski days, and just hanging on the couch, and it passes the test for all. Though the material feels a bit thicker than the R1, it has been just as breathable and hasn't felt too warm during activity. I have already bought it in another color and have worn it tons!",
+                "childEntities": [],
+                "createdTime": 1714456900000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714456900000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714456900000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Perfect 4 season hoodie",
+                "url": "/review/477490",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714456900000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5768787,
+                    "uuid": "5E092A3A0F7044259A61EF5FA03782D1",
+                    "creatorType": "USER",
+                    "displayName": "Emily Cohn",
+                    "firstName": "Emily",
+                    "lastName": "Cohn",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:FDA043,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:EC/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/5E092A3A0F7044259A61EF5FA03782D1/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1295,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "The American Alpine Club Members",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/128341/contrib/images/theamericanalpineclubnewlogo.jpg?m=1422488514000",
+                            "teamKey": "aac",
+                            "teamPrivateToProfile": false,
+                            "orgId": 128341,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-01-06T17:00:00-0700",
+                            "expirationDate": "2025-01-31T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-02-08T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Emily Cohn",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "300530",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 54967,
+                    "ownerDescription": "Outdoor Research",
+                    "ownerKey": "outdoorresearch",
+                    "description": "Women's Mega Trail Mix Fleece Pullover Hoodie",
+                    "imageFilename": "3005301187A1.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/outdoorresearch/images/product/src/sc.400.400.bf/3005301187A1.jpg",
+                    "url": "/product/outdoor-research-womens-mega-trail-mix-fleece-pullover-hoodie/54967?p=300530",
+                    "metadata": {
+                        "currentDescription": "Women's Mega Trail Mix Fleece Pullover Hoodie",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/outdoorresearch/images/product/src/sc.400.400.bf/3005301187A1.jpg",
+                        "currentImageFile": "3005301187A1.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714237447000,
+            "item": {
+                "id": 476855,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2652046,
+                            "socialismId": 476855,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476855
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1714237442/hoxlc9rvpklwbyoh1ycn.jpg",
+                                    "cropX": 44,
+                                    "cropY": 0,
+                                    "cropWidth": 480,
+                                    "cropHeight": 480,
+                                    "sortOrder": 0,
+                                    "id": 33489,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_480,w_480,x_44,y_0/c_limit,h_450,q_auto:good,w_450/v1714237442/hoxlc9rvpklwbyoh1ycn.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_480,w_480,x_44,y_0/c_limit,h_650,q_auto:best,w_650/v1714237442/hoxlc9rvpklwbyoh1ycn.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2652043,
+                            "socialismId": 476855,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476855
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2652048,
+                            "socialismId": 476855,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476855
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2652045,
+                            "socialismId": 476855,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476855
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I've always struggled to find snug helmets that don't crush my head when tightened. This is the answer to my dreams! It's super comfy, well-ventilated for warmer days, fits well with Oakley goggles, and gives me confidence on steeps and in the trees. The chin strap is easy to operate with gloves and I love the removeable ear pieces.\n\nIt took me a couple outing to find a vertical adjustment on the nape strap. It was a game changer once I got that dialed in. I almost forget I'm wearing it. So good, I put the whole family in it!",
+                "childEntities": [],
+                "createdTime": 1714237447000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714237447000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714237447000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Fully featured helmet for my head shape",
+                "url": "/review/476855",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714237447000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5225833,
+                    "uuid": "79326A6A89684AB0B35CCF9FAEA1C2AE",
+                    "creatorType": "USER",
+                    "displayName": "Paul Wright",
+                    "firstName": "Paul",
+                    "lastName": "Wright",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:7879B0,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:PW/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/79326A6A89684AB0B35CCF9FAEA1C2AE/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1111,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "U.S. Marines - Military",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/127938/contrib/images/MARINES2.jpg?m=1341238192000",
+                            "teamKey": "usmarines",
+                            "teamPrivateToProfile": false,
+                            "orgId": 127938,
+                            "status": "ACTIVE",
+                            "creationDate": "2020-10-12T18:00:00-0600",
+                            "expirationDate": "2024-10-12T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-01-30T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Paul Wright",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "99430",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 76222,
+                    "ownerDescription": "Oakley",
+                    "ownerKey": "oakley",
+                    "description": "Men's MOD5",
+                    "imageFilename": "99430__609_090A.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/99430__609_090A.jpg",
+                    "url": "/product/oakley-mens-mod5/76222?p=99430",
+                    "metadata": {
+                        "currentDescription": "Men's MOD5",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/99430__609_090A.jpg",
+                        "currentImageFile": "99430__609_090A.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713981963000,
+            "item": {
+                "id": 476237,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2647982,
+                            "socialismId": 476237,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476237
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713981952/h97donxitdwltudq0i1n.jpg",
+                                    "cropX": 0,
+                                    "cropY": 0,
+                                    "cropWidth": 3024,
+                                    "cropHeight": 3024,
+                                    "sortOrder": 0,
+                                    "id": 33432,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_0/c_limit,h_450,q_auto:good,w_450/v1713981952/h97donxitdwltudq0i1n.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_0/c_limit,h_650,q_auto:best,w_650/v1713981952/h97donxitdwltudq0i1n.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2647979,
+                            "socialismId": 476237,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476237
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2647981,
+                            "socialismId": 476237,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476237
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2647978,
+                            "socialismId": 476237,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476237
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "Great helmet that does what it needs to.  Kept me safe and comfortable in wind and blizzard conditions as well as warm spring days.  The vents are easy to manipulate with gloved hands, and the lining fits a thin skida comfortably.  Slight ear pressure when wearing glasses on longer days, but nothing that stops you from skiing.  Love me some hi-viz yellow too.",
+                "childEntities": [],
+                "createdTime": 1713981963000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713981963000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713981963000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Mission accomplished",
+                "url": "/review/476237",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713981963000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5054398,
+                    "uuid": "D08EC4040E8A41558AA40879E7CC8DC9",
+                    "creatorType": "USER",
+                    "displayName": "Zachary Nowak",
+                    "firstName": "Zachary",
+                    "lastName": "Nowak",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1701223305/xzlguyfpziwphldw6fla.jpg",
+                    "profileLink": "/user/D08EC4040E8A41558AA40879E7CC8DC9/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 3515,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Environmental Researchers & Field Scientists",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/b44254b20c65ae50/1711562929000/brandAvatar.png",
+                            "teamKey": "environmentalresearchersfieldscientists",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-27T17:00:00-0700",
+                            "expirationDate": "2024-11-26T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Zachary Nowak",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "MISSION-HELMET",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 2445,
+                    "ownerDescription": "SMITH",
+                    "ownerKey": "smith",
+                    "description": "Smith Mission Snow Helmet",
+                    "imageFilename": "E006977BK5155_01.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/smith/images/product/src/sc.400.400.bf/E006977BK5155_01.jpg",
+                    "url": "/product/smith-smith-mission-snow-helmet/2445?p=MISSION-HELMET",
+                    "metadata": {
+                        "currentDescription": "Smith Mission Snow Helmet",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/smith/images/product/src/sc.400.400.bf/E006977BK5155_01.jpg",
+                        "currentImageFile": "E006977BK5155_01.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713981310000,
+            "item": {
+                "id": 476235,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2647970,
+                            "socialismId": 476235,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476235
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713981138/sybq2j5gyvuzbj3bkmzi.jpg",
+                                    "cropX": 0,
+                                    "cropY": 504,
+                                    "cropWidth": 3024,
+                                    "cropHeight": 3024,
+                                    "sortOrder": 0,
+                                    "id": 33431,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_504/c_limit,h_450,q_auto:good,w_450/v1713981138/sybq2j5gyvuzbj3bkmzi.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_504/c_limit,h_650,q_auto:best,w_650/v1713981138/sybq2j5gyvuzbj3bkmzi.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2647964,
+                            "socialismId": 476235,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476235
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2647963,
+                            "socialismId": 476235,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476235
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2647966,
+                            "socialismId": 476235,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476235
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "Skied most of the '23-24 season on these in Colorado's front range and west slope.  They've taken me through everything from double BD glades to easy groomers.  Ranger 96 is more intentional and demanding than a carbon ski like the Ripstick or Kore, and they ask for speed to make good carves on piste.  They crush icy groomers as well as the steeps and late season slush, and have given me great sidecountry performance with Salomon Shift bindings.  Would absolutely recommend for an intermediate skier looking to hone technique and open up new terrain.  Yellow is gorgeous too.  (5'11\", 180lb, 173cm)",
+                "childEntities": [],
+                "createdTime": 1713981310000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713981310000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "9",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713981310000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Awesome do-it-all ski",
+                "url": "/review/476235",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713981310000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5054398,
+                    "uuid": "D08EC4040E8A41558AA40879E7CC8DC9",
+                    "creatorType": "USER",
+                    "displayName": "Zachary Nowak",
+                    "firstName": "Zachary",
+                    "lastName": "Nowak",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1701223305/xzlguyfpziwphldw6fla.jpg",
+                    "profileLink": "/user/D08EC4040E8A41558AA40879E7CC8DC9/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 3515,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Environmental Researchers & Field Scientists",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/b44254b20c65ae50/1711562929000/brandAvatar.png",
+                            "teamKey": "environmentalresearchersfieldscientists",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-27T17:00:00-0700",
+                            "expirationDate": "2024-11-26T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Zachary Nowak",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "A16222",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 337735,
+                    "ownerDescription": "Fischer Skis US",
+                    "ownerKey": "fischerskis",
+                    "description": "RANGER 96",
+                    "imageFilename": "A16222.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/fischerskis/images/product/src/sc.400.400.bf/A16222.jpg",
+                    "url": "/product/fischer-skis-us-ranger-96/337735?p=A16222",
+                    "metadata": {
+                        "currentDescription": "RANGER 96",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/fischerskis/images/product/src/sc.400.400.bf/A16222.jpg",
+                        "currentImageFile": "A16222.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713914015000,
+            "item": {
+                "id": 476053,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2646757,
+                            "socialismId": 476053,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476053
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2646755,
+                            "socialismId": 476053,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476053
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2646754,
+                            "socialismId": 476053,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476053
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I've been using the Oakley EYEJACKET REDUX glasses on several ski tours and they've proven to be outstanding. Their surprising side protection effectively shields against wind, snow, and glare, maintaining excellent visibility under challenging conditions. The glasses stay securely in place, and the lenses provide exceptional clarity, crucial for navigating snowy landscapes. Perfect for any outdoor enthusiast, these glasses blend high functionality with style, enhancing both safety and skiing experience. Highly recommended for their robust performance and sleek design!",
+                "childEntities": [],
+                "createdTime": 1713914015000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713914015000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "9",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713914015000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "The Ultimate Casual & Ski Touring Shades",
+                "url": "/review/476053",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713914015000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6330126,
+                    "uuid": "AA25E22CA32E46459383749A4BD58A29",
+                    "creatorType": "USER",
+                    "displayName": "Macaulay Pye",
+                    "firstName": "Macaulay",
+                    "lastName": "Pye",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:E5705E,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:MP/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/AA25E22CA32E46459383749A4BD58A29/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 531455,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Ziptrek Ecotours",
+                            "teamKey": "ziptrekecotours",
+                            "teamPrivateToProfile": false,
+                            "orgId": 524892,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-01-07T17:00:00-0700",
+                            "expirationDate": "2025-01-06T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-02-03T07:00:00.000Z",
+                        "brand_certified": "false",
+                        "verified_product_owner": "true"
+                    },
+                    "fullName": "Macaulay Pye",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "0OO9438",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 76222,
+                    "ownerDescription": "Oakley",
+                    "ownerKey": "oakley",
+                    "description": "EYEJACKET REDUX",
+                    "imageFilename": "0OO9438__94380158_030A.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/0OO9438__94380158_030A.jpg",
+                    "url": "/product/oakley-eyejacket-redux/76222?p=0OO9438",
+                    "metadata": {
+                        "currentDescription": "EYEJACKET REDUX",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/0OO9438__94380158_030A.jpg",
+                        "currentImageFile": "0OO9438__94380158_030A.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713483017000,
+            "item": {
+                "id": 475074,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2640218,
+                            "socialismId": 475074,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475074
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2640214,
+                            "socialismId": 475074,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475074
+                        }
+                    ],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713482966/gf1xtdi0i2y70ya0cgk8.jpg",
+                                    "cropX": 0,
+                                    "cropY": 407,
+                                    "cropWidth": 3024,
+                                    "cropHeight": 3024,
+                                    "sortOrder": 0,
+                                    "id": 33301,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_407/c_limit,h_450,q_auto:good,w_450/v1713482966/gf1xtdi0i2y70ya0cgk8.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_407/c_limit,h_650,q_auto:best,w_650/v1713482966/gf1xtdi0i2y70ya0cgk8.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2640217,
+                            "socialismId": 475074,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475074
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 4,
+                            "id": 2640219,
+                            "socialismId": 475074,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475074
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2640220,
+                            "socialismId": 475074,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475074
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "This bag feels like it holds more than my 32L Camelback Trailblazer, might just be the organization between pockets but it holds a lot. Been using the Targhee pretty heavily (mostly full if not entirely @ max 25-30lbs) for 3-4 months now, no signs of tearing or unthreading at the seams. Stays tight during and after falls. Room for skis or snowboard when hiking. Only complaint is it didnt come with a bladder, fits my camelback 3.5L bladder pretty well.\n(Airpods for scale)",
+                "childEntities": [],
+                "createdTime": 1713483017000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713483017000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "8",
+                    "stars": "4"
+                },
+                "modifiedTime": 1713483018000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Bigger than it looks",
+                "url": "/review/475074",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713483017000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6330077,
+                    "uuid": "0B52A8A770E74E239F8732ABA0C23E0B",
+                    "creatorType": "USER",
+                    "displayName": "Philippe Lanouette",
+                    "firstName": "Philippe",
+                    "lastName": "Lanouette",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:FDA043,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:PL/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/0B52A8A770E74E239F8732ABA0C23E0B/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 722,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Solitude Mountain Resort Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/96291/contrib/images/solitude2.png?m=1610409715000",
+                            "teamKey": "solitudemountainresort",
+                            "teamPrivateToProfile": false,
+                            "orgId": 96291,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-12-29T17:00:00-0700",
+                            "expirationDate": "2024-12-28T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-03-22T06:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Philippe Lanouette",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "121125",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 12639,
+                    "ownerDescription": "Gregory",
+                    "ownerKey": "gregory",
+                    "description": "Targhee 26",
+                    "imageFilename": "GMP_Targhee26_LavaRed_Front34.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/gregory/images/product/src/sc.400.400.bf/GMP_Targhee26_LavaRed_Front34.jpg",
+                    "url": "/product/gregory-targhee-26/12639?p=121125",
+                    "metadata": {
+                        "currentDescription": "Targhee 26",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/gregory/images/product/src/sc.400.400.bf/GMP_Targhee26_LavaRed_Front34.jpg",
+                        "currentImageFile": "GMP_Targhee26_LavaRed_Front34.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713365196000,
+            "item": {
+                "id": 474735,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2637953,
+                            "socialismId": 474735,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474735
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2637950,
+                            "socialismId": 474735,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474735
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2637949,
+                            "socialismId": 474735,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474735
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "The Prizm Sage Gold Lens is simply an outstanding lens here in Colorado.  Dark enough for bright sunny days, but being a brown-ish base, helps add some contrast for the more cloudy/partly cloudy days.  Even when the sun goes away and it starts to snow, this lens works ok, but I'll probably add a hi-pink lens to the quiver next year for the snowy and super overcast days, as this lens is not really designed to be a super all-arounder.  Fit is on the larger side of medium fit, and the goggles integrate well with my Smith Vantage helmet.  No gapper gaps here!",
+                "childEntities": [],
+                "createdTime": 1713365196000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713365196000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713365196000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Maximum View and Clarity",
+                "url": "/review/474735",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713365196000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 814135,
+                    "uuid": "2C330D6750D4448D8DEDD599CE33B09D",
+                    "creatorType": "USER",
+                    "displayName": "Ryan Schultz",
+                    "firstName": "Ryan",
+                    "lastName": "Schultz",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1667332511/iukg6qlwn395qni1pnuj.png",
+                    "profileLink": "/user/2C330D6750D4448D8DEDD599CE33B09D/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1808,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "COMotion Sports",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/148831/contrib/images/COMotion.jpg?m=1341238192000",
+                            "teamKey": "comotionsports",
+                            "teamPrivateToProfile": false,
+                            "orgId": 148831,
+                            "status": "ACTIVE",
+                            "creationDate": "2012-02-01T17:00:00-0700",
+                            "expirationDate": "2025-01-19T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 520563,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Grand Valley Youth Cycling",
+                            "teamKey": "gvyc",
+                            "teamPrivateToProfile": false,
+                            "orgId": 523466,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-10-17T18:00:00-0600",
+                            "expirationDate": "2024-10-16T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-02-16T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Ryan Schultz",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "0OO7064",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 76222,
+                    "ownerDescription": "Oakley",
+                    "ownerKey": "oakley",
+                    "description": "FLIGHT DECK M",
+                    "imageFilename": "0OO7064__706402_030A.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/0OO7064__706402_030A.jpg",
+                    "url": "/product/oakley-flight-deck-m/76222?p=0OO7064",
+                    "metadata": {
+                        "currentDescription": "FLIGHT DECK M",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/0OO7064__706402_030A.jpg",
+                        "currentImageFile": "0OO7064__706402_030A.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713224180000,
+            "item": {
+                "id": 474356,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2635406,
+                            "socialismId": 474356,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474356
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2635402,
+                            "socialismId": 474356,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474356
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2635404,
+                            "socialismId": 474356,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474356
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "I purchased these for my Moment Wildcats that are mounted with a Pivot Cast system. These crampons performed exceptionally during my trip to Tahoe in early April. These brought me up some bulletproof morning sierra skinners that wouldn't have been possible without. They engage with the snow effortlessly and release without drag/catching. I was putting my full body weight on one side to hold an edge in steep ice and expected these to be all bent out of shape, but to my surprise they were good as new afterewards. Super impressed with the strength for the relatively light weight crampons. If you have a Pivot Cast you have no other options, and if you don't these are a fantastic option for you. ",
+                "childEntities": [],
+                "createdTime": 1713224180000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713224180000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "9",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713224180000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "The Best Ski Crampons",
+                "url": "/review/474356",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713224180000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5731852,
+                    "uuid": "6D31BA88544249ADA00BE447C31B4049",
+                    "creatorType": "USER",
+                    "displayName": "Christian Wolf",
+                    "firstName": "Christian",
+                    "lastName": "Wolf",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:70B5B4,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:CW/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/6D31BA88544249ADA00BE447C31B4049/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 482630,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Snowbird Ski Resort Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/516314/contrib/images/snowbird-logo-vector.png?m=1697728558000",
+                            "teamKey": "snowbirdskiresort",
+                            "teamPrivateToProfile": false,
+                            "orgId": 516314,
+                            "status": "ACTIVE",
+                            "creationDate": "2021-11-22T17:00:00-0700",
+                            "expirationDate": "2025-11-29T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 494752,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Weston AIARE 1 VIP",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/0ddbad052aa0ec55/1711988926000/brandAvatar.png",
+                            "teamKey": "westonaiare1vip",
+                            "teamPrivateToProfile": false,
+                            "orgId": 465688,
+                            "status": "EXPIRED",
+                            "creationDate": "2022-03-01T17:00:00-0700",
+                            "expirationDate": "2023-03-01T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 401516,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Ski Instructors",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/skiinstructor.png?m=1677859254000",
+                            "teamKey": "skiinstructors",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-10-25T18:00:00-0600",
+                            "expirationDate": "2024-10-30T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 3315,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Ski Patrollers",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/skipatrol.png?m=1677858748000",
+                            "teamKey": "skipatrol",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-10-25T18:00:00-0600",
+                            "expirationDate": "2024-10-23T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 408274,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "IMBA Members",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/54598/contrib/images/IMBAmembers.gif?m=1341238192000",
+                            "teamKey": "imbamembers",
+                            "teamPrivateToProfile": false,
+                            "orgId": 54598,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-20T17:00:00-0700",
+                            "expirationDate": "2024-11-18T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-03-21T06:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Christian Wolf",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "08-0000048374",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 53934,
+                    "ownerDescription": "Dynafit",
+                    "ownerKey": "dynafit",
+                    "description": "CramponS 120MM",
+                    "imageFilename": "48374_1600.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/dynafit/images/product/src/sc.400.400.bf/48374_1600.jpg",
+                    "url": "/product/dynafit-crampons-120mm/53934?p=08-0000048374",
+                    "metadata": {
+                        "currentDescription": "CramponS 120MM",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/dynafit/images/product/src/sc.400.400.bf/48374_1600.jpg",
+                        "currentImageFile": "48374_1600.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713192698000,
+            "item": {
+                "id": 474195,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                3
+                            ],
+                            "id": 2634326,
+                            "socialismId": 474195,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474195
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713192672/uqvtywnfzp9hbzjuvyny.jpg",
+                                    "cropX": 0,
+                                    "cropY": 386,
+                                    "cropWidth": 2316,
+                                    "cropHeight": 2316,
+                                    "sortOrder": 0,
+                                    "id": 33200,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2316,w_2316,x_0,y_386/c_limit,h_450,q_auto:good,w_450/v1713192672/uqvtywnfzp9hbzjuvyny.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2316,w_2316,x_0,y_386/c_limit,h_650,q_auto:best,w_650/v1713192672/uqvtywnfzp9hbzjuvyny.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2634324,
+                            "socialismId": 474195,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474195
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 4,
+                            "id": 2634321,
+                            "socialismId": 474195,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474195
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2634319,
+                            "socialismId": 474195,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474195
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "They appear like they might be too delicate to do anything- imagine a pair of thin tights-  but I found them  comfortable enough, not much compression to speak of. \nI happen to experience a slight itchiness from the materials, but they have been warm enough under my unlined shell ski pants. I like the ease of pulling them on after quick pit stops, and that they are not bulky. I do enjoy their color…But would I recommend? Probably not, especially if someone needs to pay full price. ",
+                "childEntities": [],
+                "createdTime": 1713192698000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": true,
+                "lastCreatorEdit": 1713413989000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "6",
+                    "stars": "4"
+                },
+                "modifiedTime": 1713413990000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Easy base layer",
+                "url": "/review/474195",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713413989000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6258987,
+                    "uuid": "C02CE37028084CFBAA67AB629185FF64",
+                    "creatorType": "USER",
+                    "displayName": "Claire Oravec",
+                    "firstName": "Claire",
+                    "lastName": "Oravec",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:FDA043,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:CO/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/C02CE37028084CFBAA67AB629185FF64/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1085,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Crystal Mountain Resort Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/126549/contrib/images/crystal_mountain.png?m=1699388819000",
+                            "teamKey": "crystalmountainresortemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 126549,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-01-16T17:00:00-0700",
+                            "expirationDate": "2025-01-15T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-03-04T07:00:00.000Z",
+                        "brand_certified": "false",
+                        "verified_product_owner": "true"
+                    },
+                    "fullName": "Claire Oravec",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "W1I8S",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 83330,
+                    "ownerDescription": "CEP Compression Sportswear",
+                    "ownerKey": "cepsocks",
+                    "description": "Women's Ski Touring 3/4 Base Tights",
+                    "imageFilename": "W1I83S-1.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/cepsocks/images/product/src/sc.400.400.bf/W1I83S-1.jpg",
+                    "url": "/product/cep-compression-sportswear-womens-ski-touring-3-4-base-tights/83330?p=W1I8S",
+                    "metadata": {
+                        "currentDescription": "Women's Ski Touring 3/4 Base Tights",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/cepsocks/images/product/src/sc.400.400.bf/W1I83S-1.jpg",
+                        "currentImageFile": "W1I83S-1.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713149178000,
+            "item": {
+                "id": 474129,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2633866,
+                            "socialismId": 474129,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474129
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713149173/kgujoemcyugdv4smiab5.jpg",
+                                    "cropX": 0,
+                                    "cropY": 985,
+                                    "cropWidth": 3072,
+                                    "cropHeight": 3072,
+                                    "sortOrder": 0,
+                                    "id": 33185,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3072,w_3072,x_0,y_985/c_limit,h_450,q_auto:good,w_450/v1713149173/kgujoemcyugdv4smiab5.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3072,w_3072,x_0,y_985/c_limit,h_650,q_auto:best,w_650/v1713149173/kgujoemcyugdv4smiab5.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2633869,
+                            "socialismId": 474129,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474129
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 4,
+                            "id": 2633865,
+                            "socialismId": 474129,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474129
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2633867,
+                            "socialismId": 474129,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474129
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "These skis are some excellent intermediate-advanced all mountain skis. They happen to do anything you want decently well, whether it's floating in fresh powder (surprisingly, even deep powder is doable), carving hard groomers, or playing in slush. I would say they're not as playful as some skis, and might not be as forgiving for beginners as others could be, but they're also not difficult to ride. Anyone could pick these up and enjoy a day of skiing in any condition.",
+                "childEntities": [],
+                "createdTime": 1713149178000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713149178000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "9",
+                    "stars": "4"
+                },
+                "modifiedTime": 1713149178000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Liberty Origin 96",
+                "url": "/review/474129",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713149178000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6370325,
+                    "uuid": "4107C67CC3C34927A889CC017AA22626",
+                    "creatorType": "USER",
+                    "displayName": "Kurtis Jewkes",
+                    "firstName": "Kurtis",
+                    "lastName": "Jewkes",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:99536A,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:KJ/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/4107C67CC3C34927A889CC017AA22626/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 2524,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Beaver Mountain Ski Area",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/179906/contrib/images/beaver.jpg?m=1341238192000",
+                            "teamKey": "beavermountain",
+                            "teamPrivateToProfile": false,
+                            "orgId": 179906,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-15T17:00:00-0700",
+                            "expirationDate": "2025-02-14T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-02-19T07:00:00.000Z",
+                        "brand_certified": "false",
+                        "verified_product_owner": "true"
+                    },
+                    "fullName": "Kurtis Jewkes",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "ORG96_23",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 96485,
+                    "ownerDescription": "Liberty Skis",
+                    "ownerKey": "libertyskis",
+                    "description": "Men's 2023 Origin 96",
+                    "imageFilename": "Origin_96_Angle01.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/libertyskis/images/product/src/sc.400.400.bf/Origin_96_Angle01.jpg",
+                    "url": "/product/liberty-skis-mens-2023-origin-96/96485?p=ORG96_23",
+                    "metadata": {
+                        "currentDescription": "Men's 2023 Origin 96",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/libertyskis/images/product/src/sc.400.400.bf/Origin_96_Angle01.jpg",
+                        "currentImageFile": "Origin_96_Angle01.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713024363000,
+            "item": {
+                "id": 473839,
+                "attributes": {
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2631923,
+                            "socialismId": 473839,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473839
+                        }
+                    ],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713024358/mxtcklzqdbay5zov3k34.jpg",
+                                    "cropX": 215,
+                                    "cropY": 0,
+                                    "cropWidth": 3024,
+                                    "cropHeight": 3024,
+                                    "sortOrder": 0,
+                                    "id": 33149,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_215,y_0/c_limit,h_450,q_auto:good,w_450/v1713024358/mxtcklzqdbay5zov3k34.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_215,y_0/c_limit,h_650,q_auto:best,w_650/v1713024358/mxtcklzqdbay5zov3k34.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2631926,
+                            "socialismId": 473839,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473839
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 4,
+                            "id": 2631925,
+                            "socialismId": 473839,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473839
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 29,
+                            "id": 2631927,
+                            "socialismId": 473839,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473839
+                        }
+                    ],
+                    "TEXT_LIST": []
+                },
+                "body": "These bibs are an excellent shell. Starting with the sizing, I used the the guide and they fit perfectly. I am a skier averaging 50 days a season.  On most days this winter on the east coast, the shell with a merino wool base layer was sufficient. In the colder days, (single digits) and on race days where I stood in the side of the mountain for hours hand timing or just watching my son’s races,  I actually swapped these out for an older pair of insulated pants. The real test came on a rainy day. At first, it seemed like the shell was getting saturated because the water wasn’t beading and seemed to be soaking in. But after HOURS of skiing out in the rain, I was still dry! I was truly impressed with the performance of these pants (and jacket)!",
+                "childEntities": [],
+                "createdTime": 1713024363000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713024363000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "4"
+                },
+                "modifiedTime": 1713024363000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great bibs",
+                "url": "/review/473839",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713024363000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 4109305,
+                    "uuid": "75AC307FE0D34AFDB13A4BA2F2A85BC1",
+                    "creatorType": "USER",
+                    "displayName": "Stash Bochnak",
+                    "firstName": "Stash",
+                    "lastName": "Bochnak",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1513184975/facebook_10212897734791020",
+                    "profileLink": "/user/75AC307FE0D34AFDB13A4BA2F2A85BC1/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1585,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "United States Ski and Snowboard Association",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/143673/contrib/images/ussa.png?m=1618589740000",
+                            "teamKey": "usss",
+                            "teamPrivateToProfile": false,
+                            "orgId": 143673,
+                            "status": "ACTIVE",
+                            "creationDate": "2020-02-14T17:00:00-0700",
+                            "expirationDate": "2024-06-29T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "true"
+                    },
+                    "fullName": "Stash Bochnak",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "62902",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 48728,
+                    "ownerDescription": "Helly Hansen",
+                    "ownerKey": "hellyhansen",
+                    "description": "ODIN MOUNTAIN 3L SHELL BIB PANT",
+                    "imageFilename": "62902_402.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/hellyhansen/images/product/src/sc.400.400.bf/62902_402.jpg",
+                    "url": "/product/helly-hansen-odin-mountain-3l-shell-bib-pant/48728?p=62902",
+                    "metadata": {
+                        "currentDescription": "ODIN MOUNTAIN 3L SHELL BIB PANT",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/hellyhansen/images/product/src/sc.400.400.bf/62902_402.jpg",
+                        "currentImageFile": "62902_402.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "MULTIPLE_CHOICE": [],
+                    "INTRINSIC": [],
+                    "BOOLEAN": [],
+                    "VIDEO": [],
+                    "TEXT": [],
+                    "IMAGE": [],
+                    "NUMERIC": [],
+                    "TEXT_LIST": []
+                }
+            }
+        }
+    ]
+}
