@@ -1,0 +1,2686 @@
+[
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1715823032390,
+        "item": {
+            "id": "1d52290b-5b6c-4646-b7bf-ee36a5c49ebf",
+            "owner": {
+                "uuid": "4C215610194945708C289B5BE5161DE7",
+                "userId": 4564160,
+                "firstName": "Tess",
+                "lastName": "Wipfli",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1715803645/pnx93a3mlyp5djac4bpw.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1747267200000,
+                        "orgId": 467386,
+                        "status": "ACTIVE",
+                        "teamId": 433905,
+                        "teamKey": "anytimefitness"
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1747267200000,
+                        "orgId": 363015,
+                        "status": "ACTIVE",
+                        "teamId": 327241
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "orgId": 1449,
+                        "status": "INACTIVE",
+                        "teamId": 8025,
+                        "teamKey": "rei"
+                    }
+                ]
+            },
+            "description": "Joshua Tree 1/2 Marathon 2023. My Torins were perfect for this race! Such an amazing experience. ",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [],
+            "productTags": [
+                {
+                    "orgId": 76024,
+                    "orgName": "Garmin",
+                    "productCode": "010-01297-00",
+                    "productDetailPageUrl": "/product/garmin-vivoactive-gps-watch-black/76024?p=010-01297-00",
+                    "productImageFilename": "vivoactive4.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/vivoactive4.jpg",
+                    "productName": "vivoactive, GPS Watch, Black",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 526001,
+                    "orgName": "Nathan Sports",
+                    "productCode": "7433405628504",
+                    "productDetailPageUrl": "/product/nathan-sports-vaporairess-2-0-7-liter-womens-hydration-pack/526001?p=7433405628504",
+                    "productImageFilename": "NS4727-60054_VaporAiress7L-2_back_278a474f-214c-4992-869d-b990f2a075a5.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/nathansports/images/product/src/sc.400.400.bf/NS4727-60054_VaporAiress7L-2_back_278a474f-214c-4992-869d-b990f2a075a5.jpg",
+                    "productName": "VaporAiress 2.0 7 Liter Women's Hydration Pack",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 131828,
+                    "orgName": "ALTRA",
+                    "productCode": "A1235",
+                    "productDetailPageUrl": "/product/altra-footwear-torin/131828?p=A1235",
+                    "productImageFilename": "A1235-2_TORIN_(BLUE)_0046.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/altra/images/product/src/sc.400.400.bf/A1235-2_TORIN_(BLUE)_0046.jpg",
+                    "productName": "Torin",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--1CrgxNuQ--/v1715823031/ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb.jpg",
+            "images": {
+                "publicId": "ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--1CrgxNuQ--/v1715823031/ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s---mepFU0_--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--is8mo9HP--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--6m_XlsBY--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--nFB8vZUn--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/4C215610194945708C289B5BE5161DE7/fa681a96-3e94-4f74-96aa-983bad0bacfb",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1715823032390,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1715736495079,
+        "item": {
+            "id": "4e020d44-3b5b-4d28-9b3e-ed115a5059f6",
+            "owner": {
+                "uuid": "4C215610194945708C289B5BE5161DE7",
+                "userId": 4564160,
+                "firstName": "Tess",
+                "lastName": "Wipfli",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1715803645/pnx93a3mlyp5djac4bpw.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1747267200000,
+                        "orgId": 467386,
+                        "status": "ACTIVE",
+                        "teamId": 433905,
+                        "teamKey": "anytimefitness"
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1747267200000,
+                        "orgId": 363015,
+                        "status": "ACTIVE",
+                        "teamId": 327241
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "orgId": 1449,
+                        "status": "INACTIVE",
+                        "teamId": 8025,
+                        "teamKey": "rei"
+                    }
+                ]
+            },
+            "description": "Great shoes! Smooth supportive ride. Perfect for my longer run on a hard packed gravel path.",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [],
+            "productTags": [
+                {
+                    "orgId": 131828,
+                    "orgName": "ALTRA",
+                    "productCode": "AL0A82CJ",
+                    "productDetailPageUrl": "/product/altra-altrafwd-experience-womens/131828?p=AL0A82CJ",
+                    "productImageFilename": "AL0A82CJ000-HERO.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/altra/images/product/src/sc.400.400.bf/AL0A82CJ000-HERO.jpg",
+                    "productName": "ALTRAFWD EXPERIENCE - Women's",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--mJaVyVGi--/v1715736494/ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539.jpg",
+            "images": {
+                "publicId": "ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--mJaVyVGi--/v1715736494/ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--VehOYHkW--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--2nbsZler--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--ut3FTlms--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--NnZ9YBr9--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/4C215610194945708C289B5BE5161DE7/26ce3e6b-103f-4d80-824e-5b8afbe36539",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1715736495079,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1715735988705,
+        "item": {
+            "id": "f900aeff-aa2f-4d50-b5f4-285458a5beee",
+            "owner": {
+                "uuid": "4C215610194945708C289B5BE5161DE7",
+                "userId": 4564160,
+                "firstName": "Tess",
+                "lastName": "Wipfli",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1715803645/pnx93a3mlyp5djac4bpw.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1747267200000,
+                        "orgId": 467386,
+                        "status": "ACTIVE",
+                        "teamId": 433905,
+                        "teamKey": "anytimefitness"
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1747267200000,
+                        "orgId": 363015,
+                        "status": "ACTIVE",
+                        "teamId": 327241
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "orgId": 1449,
+                        "status": "INACTIVE",
+                        "teamId": 8025,
+                        "teamKey": "rei"
+                    }
+                ]
+            },
+            "description": "Sunday Track Attack training group. We run circles because we are awesome. ",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [],
+            "productTags": [
+                {
+                    "orgId": 131828,
+                    "orgName": "ALTRA",
+                    "productCode": "AL0A82C8",
+                    "productDetailPageUrl": "/product/altra-altrafwd-experience-mens/131828?p=AL0A82C8",
+                    "productImageFilename": "AL0A82C8000-HERO.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/altra/images/product/src/sc.400.400.bf/AL0A82C8000-HERO.jpg",
+                    "productName": "ALTRAFWD EXPERIENCE - Men's",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 131828,
+                    "orgName": "ALTRA",
+                    "productCode": "AL0A7R71",
+                    "productDetailPageUrl": "/product/altra-womens-escalante-3/131828?p=AL0A7R71",
+                    "productImageFilename": "AL0A7R71_110_R_HERO.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/altra/images/product/src/sc.400.400.bf/AL0A7R71_110_R_HERO.jpg",
+                    "productName": "WOMEN'S ESCALANTE 3",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--XvSQ0B82--/v1715735987/ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc.jpg",
+            "images": {
+                "publicId": "ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--XvSQ0B82--/v1715735987/ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc.jpg",
+                    "dimension": {
+                        "width": 714,
+                        "height": 714
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--zJ62K12h--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--Y1ldJ3L_--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--H7XVElTP--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--4wSa8C38--/c_fill,f_auto,h_714,q_auto,w_714/v1/ugc/4C215610194945708C289B5BE5161DE7/b028024e-f302-4d20-9629-9b8bd97c0dbc",
+                    "dimension": {
+                        "width": 714,
+                        "height": 714
+                    }
+                }
+            },
+            "creationDate": 1715735988705,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1715617398770,
+        "item": {
+            "id": "045f3219-6bbf-47ac-84ae-a60cf52647d6",
+            "owner": {
+                "uuid": "FDCC668F5FCA4254BEF9AC8DE35B36C2",
+                "userId": 5837858,
+                "firstName": "Sybil",
+                "lastName": "Anast",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1698720396/f6vdvxrhoqs8ptmgog58.jpg",
+                "expertProfileVisibility": "PUBLIC",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROGRAM",
+                        "expirationDate": 1722643200000,
+                        "orgId": 24550,
+                        "status": "ACTIVE",
+                        "teamId": 524108,
+                        "teamKey": "brooksgotosupport1684854977"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1709769600000,
+                        "orgId": 24550,
+                        "status": "EXPIRED",
+                        "teamId": 5,
+                        "teamKey": "brookssports"
+                    }
+                ]
+            },
+            "description": "Happy NRM!! These guys crushed it at our clinic this morning. Dropping all the knowledge to get us hyped!!",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "brooks",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/acf49d907c1fca2f/1714580749/brandAvatar.png",
+                    "orgName": "Brooks Running",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--4F52YUP0--/v1715617397/ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a.jpg",
+            "images": {
+                "publicId": "ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--4F52YUP0--/v1715617397/ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a.jpg",
+                    "dimension": {
+                        "width": 768,
+                        "height": 768
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--sMTJdIdE--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--TsJfefRu--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--kRYN0gGI--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--l5VgxZhk--/c_fill,f_auto,h_768,q_auto,w_768/v1/ugc/FDCC668F5FCA4254BEF9AC8DE35B36C2/3b416c30-d0fe-4cc6-b76e-03576304e82a",
+                    "dimension": {
+                        "width": 768,
+                        "height": 768
+                    }
+                }
+            },
+            "creationDate": 1715617398770,
+            "likeCount": 1,
+            "likes": [
+                {
+                    "liker": {
+                        "uuid": "6F9977DD1D404B12B60AC87E1237293E",
+                        "userId": 6268897,
+                        "firstName": "Thomas",
+                        "lastName": "Paulsen",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1697903796/wqna1uxmxlglt7uskctm.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1715617975552
+                }
+            ],
+            "liked": false,
+            "commentCount": 1,
+            "comments": [
+                {
+                    "comment": "Thank you Sybil for coming out and teaching the staff!!",
+                    "id": "f75d8d84-4456-4f6b-aca9-f5483dbfe2ac",
+                    "commenter": {
+                        "uuid": "6F9977DD1D404B12B60AC87E1237293E",
+                        "userId": 6268897,
+                        "firstName": "Thomas",
+                        "lastName": "Paulsen",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1697903796/wqna1uxmxlglt7uskctm.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1715618002854,
+                    "modifiedDate": 1715618002854
+                }
+            ],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1715469315774,
+        "item": {
+            "id": "e1bd3570-7dac-4a94-bfb0-72d6e65829a7",
+            "owner": {
+                "uuid": "36CB2109CE7D4A6E9138CFB45A6E7E33",
+                "userId": 5427294,
+                "firstName": "Taylor",
+                "lastName": "Sharpe",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1609374977/ce6ukjc2pwcwmqoaol1m.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1730160000000,
+                        "orgId": 168823,
+                        "status": "ACTIVE",
+                        "teamId": 1995,
+                        "teamKey": "accessfund"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1698710400000,
+                        "orgId": 521455,
+                        "status": "EXPIRED",
+                        "teamId": 487918,
+                        "teamKey": "bcc"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1730160000000,
+                        "orgId": 54598,
+                        "status": "ACTIVE",
+                        "teamId": 408274,
+                        "teamKey": "imbamembers"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1731628800000,
+                        "orgId": 1,
+                        "status": "ACTIVE",
+                        "teamId": 3515,
+                        "teamKey": "environmentalresearchersfieldscientists"
+                    }
+                ]
+            },
+            "description": "Scrambling to break up a long trail run in the Foothills",
+            "date": [
+                2024,
+                5,
+                11
+            ],
+            "location": {
+                "lat": 0,
+                "name": "Boulder, CO "
+            },
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "outdoorresearch",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/4c3f7b7f4988d054/1715098281/brandAvatar.png",
+                    "orgName": "Outdoor Research",
+                    "x": 0.19,
+                    "y": 0.49
+                },
+                {
+                    "orgKey": "smith",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/1ff41ee44db09fbb/1715017923/brandAvatar.png",
+                    "orgName": "SMITH",
+                    "x": 0.41,
+                    "y": 0.59
+                },
+                {
+                    "orgKey": "lasportiva",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/798595252efb4963/1715199931/brandAvatar.png",
+                    "orgName": "La Sportiva",
+                    "x": 0.26,
+                    "y": 0.91
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--evShKJPE--/v1/ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705.jpg",
+            "images": {
+                "publicId": "ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--evShKJPE--/v1/ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705.jpg",
+                    "dimension": {
+                        "width": 2000,
+                        "height": 2000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--TU4Nd0fd--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--L_I-d-JU--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--7oDfWRVA--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--wn3OVUNS--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/36CB2109CE7D4A6E9138CFB45A6E7E33/db9514df-0241-4e89-9ed0-b017fae71705",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1715469315774,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "mountain",
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1715268578653,
+        "item": {
+            "id": "6254619c-321b-472d-9fa4-504475e8f26c",
+            "owner": {
+                "uuid": "078E966AE0584BFF8532EF0E4ED2954D",
+                "userId": 6144418,
+                "firstName": "Brendon",
+                "lastName": "Estrada",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1715269016/ozwtnatsu8l1slghzsnp.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 4082918400000,
+                        "orgId": 127936,
+                        "status": "ACTIVE",
+                        "teamId": 1109,
+                        "teamKey": "usnavy"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1746489600000,
+                        "orgId": 524892,
+                        "status": "ACTIVE",
+                        "teamId": 504672,
+                        "teamKey": "jhranch"
+                    }
+                ]
+            },
+            "description": "Wild Rogue Relay!",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "hokaoneone",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/567709dc76c651a6/1714580749/brandAvatar.png",
+                    "orgName": "HOKA ONE ONE",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--xiEiL13o--/v1715268577/ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1.jpg",
+            "images": {
+                "publicId": "ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--xiEiL13o--/v1715268577/ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--l79Skeue--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--bUEPQQ_S--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--LISyiyv0--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--tS5jxVCZ--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/078E966AE0584BFF8532EF0E4ED2954D/3584e5ee-263b-4289-aae3-535f9828f3d1",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1715268578653,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714763648156,
+        "item": {
+            "id": "8478801c-f594-4060-adbc-0ab93947c3da",
+            "owner": {
+                "uuid": "EE630EDD66694D69AB579A5CFFD9FFDC",
+                "userId": 5081308,
+                "firstName": "Whitney",
+                "lastName": "White",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1710932623/dbqbu5zs3bdshfmdklvj.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROGRAM",
+                        "expirationDate": 1723593600000,
+                        "orgId": 24550,
+                        "status": "ACTIVE",
+                        "teamId": 524108,
+                        "teamKey": "brooksgotosupport1684854977"
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1635811200000,
+                        "orgId": 100064,
+                        "status": "EXPIRED",
+                        "teamId": 89739,
+                        "teamKey": "dickssportinggoodsretailemployees"
+                    }
+                ]
+            },
+            "description": "To celebrate national runners month, I have decorated our doorway in footwear in a Brooks theme! All of our footwear teammates have decorated their own glycerin and runners bib! We have enjoyed displaying our love for Brooks! ",
+            "location": {
+                "lat": 38.33567,
+                "lon": -81.71169,
+                "name": "South Charleston, WV"
+            },
+            "categoryIds": [
+                26,
+                14
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "brooks",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/acf49d907c1fca2f/1714580749/brandAvatar.png",
+                    "orgName": "Brooks Running",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--Z4pewmnj--/v1/ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae.jpg",
+            "images": {
+                "publicId": "ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--Z4pewmnj--/v1/ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae.jpg",
+                    "dimension": {
+                        "width": 2400,
+                        "height": 2401
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--5Ap2Uqk_--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--oQMxe4eb--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--50LT6pLB--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--hla_BZjl--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/EE630EDD66694D69AB579A5CFFD9FFDC/3f169539-63f3-4b6c-845c-d2181b186aae",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714763648156,
+            "likeCount": 4,
+            "likes": [
+                {
+                    "liker": {
+                        "uuid": "913AD0BB72B54DDF94D8EFE1D8DDFD7D",
+                        "userId": 5470224,
+                        "firstName": "Jacquelyn",
+                        "lastName": "Allison",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1686843916/v4fetlqvxuxupdmkwixh.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714998893278
+                },
+                {
+                    "liker": {
+                        "uuid": "FDCC668F5FCA4254BEF9AC8DE35B36C2",
+                        "userId": 5837858,
+                        "firstName": "Sybil",
+                        "lastName": "Anast",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1698720396/f6vdvxrhoqs8ptmgog58.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1715617224429
+                },
+                {
+                    "liker": {
+                        "uuid": "442F964FE2D541EA8579B3C2B5F81F8C",
+                        "userId": 6213223,
+                        "firstName": "David",
+                        "lastName": "Camisa",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1700000206/exl6ranxfphizfah3jlm.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1715040294779
+                },
+                {
+                    "liker": {
+                        "uuid": "408B359F64D249EF9FE2DEF1D7D09C6B",
+                        "userId": 6114720,
+                        "firstName": "Courtney",
+                        "lastName": "Schatz",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1689103563/ig4ec6yeya6f0rsgnisf.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714763887811
+                }
+            ],
+            "liked": false,
+            "commentCount": 1,
+            "comments": [
+                {
+                    "comment": "Whitney!! This is amazing! Sharing this at the top of the page right now!!. :)",
+                    "id": "a5a4aa3a-2629-4a7c-ae88-e9a58488d34c",
+                    "commenter": {
+                        "uuid": "913AD0BB72B54DDF94D8EFE1D8DDFD7D",
+                        "userId": 5470224,
+                        "firstName": "Jacquelyn",
+                        "lastName": "Allison",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1686843916/v4fetlqvxuxupdmkwixh.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714998929368,
+                    "modifiedDate": 1714998929368
+                }
+            ],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 14,
+                    "name": "Footwear",
+                    "hyphenatedName": "footwear"
+                },
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [],
+                "logos": [],
+                "scene": []
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714608937388,
+        "item": {
+            "id": "fa50d77b-5254-4949-b368-ba1766cf98c5",
+            "owner": {
+                "uuid": "F22B066E5A7241BAAA3E093DAA24D28A",
+                "userId": 4389306,
+                "firstName": "Kyle",
+                "lastName": "Dewey",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1702846004/emw997uqgkejrviup5ry.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1787788800000,
+                        "orgId": 1,
+                        "status": "ACTIVE",
+                        "teamId": 775,
+                        "teamKey": "forestservice"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1787788800000,
+                        "orgId": 1,
+                        "status": "ACTIVE",
+                        "teamId": 55,
+                        "teamKey": "fireandrescue"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 32503680000000,
+                        "orgId": 127938,
+                        "status": "ACTIVE",
+                        "teamId": 1111,
+                        "teamKey": "usmarines"
+                    }
+                ]
+            },
+            "description": "6 mile run in the valley with the 18lb vest!",
+            "location": {
+                "name": "La grande, OR"
+            },
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "altra",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/64f0359ebc523117/1714580749/brandAvatar.png",
+                    "orgName": "ALTRA",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--lmCdpiQF--/v1/ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166.jpg",
+            "images": {
+                "publicId": "ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--lmCdpiQF--/v1/ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166.jpg",
+                    "dimension": {
+                        "width": 2316,
+                        "height": 2317
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--5qJZgBO6--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--JW-e1t5r--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--eLg3EYtE--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--RsHDdlFZ--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/F22B066E5A7241BAAA3E093DAA24D28A/39db3b75-220c-495e-a7c4-bbbae704a166",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714608937388,
+            "likeCount": 1,
+            "likes": [
+                {
+                    "liker": {
+                        "uuid": "309F7770C2C3479F8086A47873015819",
+                        "userId": 1929485,
+                        "firstName": "James",
+                        "lastName": "Standhardt",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1643220636/nlfdp4jbz72d1f6jgiji.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1715365355905
+                }
+            ],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "sunglasses",
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714499892176,
+        "item": {
+            "id": "7ea3cdaa-ee53-454b-8019-1079aad311e3",
+            "owner": {
+                "uuid": "071CF8CC062748609428235219C27239",
+                "userId": 6402446,
+                "firstName": "Sam",
+                "lastName": "Carter",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/co_rgb:E5705E,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:SC/v1614801417/lite-gray_iqaexe.png",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1743292800000,
+                        "orgId": 1719,
+                        "status": "ACTIVE",
+                        "teamId": 8256,
+                        "teamKey": "basspro"
+                    }
+                ]
+            },
+            "description": "Love my new trail running shoes, super comfortable, I love the arch support",
+            "location": {
+                "lat": 39.25517,
+                "lon": -94.453,
+                "name": "Fun Run - Liberty, MO"
+            },
+            "categoryIds": [
+                17,
+                26,
+                14
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "salomon",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/7f4b5d0ae167756d/1714580749/brandAvatar.png",
+                    "orgName": "Salomon",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--_rRyvn7s--/v1/ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542.jpg",
+            "images": {
+                "publicId": "ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--_rRyvn7s--/v1/ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542.jpg",
+                    "dimension": {
+                        "width": 1179,
+                        "height": 1179
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--CxQt-U-B--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--ni4VgeMO--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--2mxAnxqd--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--GX7TUEv5--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/071CF8CC062748609428235219C27239/06f96bf5-946b-4d98-8b4b-df338034c542",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714499892176,
+            "likeCount": 1,
+            "likes": [
+                {
+                    "liker": {
+                        "uuid": "85E83097B5AC4A7BBA6114534BCFC019",
+                        "userId": 773304,
+                        "firstName": "Joshua",
+                        "lastName": "McCormick",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/co_rgb:99C8E0,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JM/v1614801417/lite-gray_iqaexe.png",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1714649904646
+                }
+            ],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 17,
+                    "name": "Hike",
+                    "hyphenatedName": "hike"
+                },
+                {
+                    "categoryId": 14,
+                    "name": "Footwear",
+                    "hyphenatedName": "footwear"
+                },
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [],
+                "logos": [],
+                "scene": []
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714389935005,
+        "item": {
+            "id": "937fae83-e3b6-42d7-9caf-1f6530f3934e",
+            "owner": {
+                "uuid": "442F964FE2D541EA8579B3C2B5F81F8C",
+                "userId": 6213223,
+                "firstName": "David",
+                "lastName": "Camisa",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1700000206/exl6ranxfphizfah3jlm.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROGRAM",
+                        "expirationDate": 1731542400000,
+                        "orgId": 24550,
+                        "status": "ACTIVE",
+                        "teamId": 524108,
+                        "teamKey": "brooksgotosupport1684854977"
+                    },
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1723161600000,
+                        "orgId": 100064,
+                        "status": "ACTIVE",
+                        "teamId": 89739,
+                        "teamKey": "dickssportinggoodsretailemployees"
+                    }
+                ]
+            },
+            "description": "Tell me your a fan of Brooks running without telling me your a fan of Brooks running ",
+            "location": {
+                "name": "My house"
+            },
+            "categoryIds": [
+                26,
+                14
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "brooks",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/acf49d907c1fca2f/1714580749/brandAvatar.png",
+                    "orgName": "Brooks Running",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--agWyXYXg--/v1/ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b.jpg",
+            "images": {
+                "publicId": "ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--agWyXYXg--/v1/ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b.jpg",
+                    "dimension": {
+                        "width": 2400,
+                        "height": 2401
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--rNNrAGT6--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--9a2NAWF5--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--nueunqJf--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--vmYmQWA3--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/442F964FE2D541EA8579B3C2B5F81F8C/17fe234a-41e5-48a4-8383-d8bc05c1679b",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714389935005,
+            "likeCount": 6,
+            "likes": [
+                {
+                    "liker": {
+                        "uuid": "FDCC668F5FCA4254BEF9AC8DE35B36C2",
+                        "userId": 5837858,
+                        "firstName": "Sybil",
+                        "lastName": "Anast",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1698720396/f6vdvxrhoqs8ptmgog58.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1714577140343
+                },
+                {
+                    "liker": {
+                        "uuid": "D4286592B7504B62BB4F5378A92A230D",
+                        "userId": 1950370,
+                        "firstName": "Mollie",
+                        "lastName": "Liskiewicz",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1611282198/rtfhrzzwi5tngfuvrgk3.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1714584395866
+                },
+                {
+                    "liker": {
+                        "uuid": "04B4146F62EF4CB7B3DBD87C9B68ED9C",
+                        "userId": 1117093,
+                        "firstName": "Shannon",
+                        "lastName": "Simpson",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1687189429/ry2dstusjzoxe1yw4opq.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1714678756767
+                },
+                {
+                    "liker": {
+                        "uuid": "442F964FE2D541EA8579B3C2B5F81F8C",
+                        "userId": 6213223,
+                        "firstName": "David",
+                        "lastName": "Camisa",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1700000206/exl6ranxfphizfah3jlm.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED",
+                        "teamRelationships": [
+                            {
+                                "teamType": "PROGRAM",
+                                "expirationDate": 1731542400000,
+                                "orgId": 24550,
+                                "status": "ACTIVE",
+                                "teamId": 524108,
+                                "teamKey": "brooksgotosupport1684854977"
+                            },
+                            {
+                                "teamType": "RETAIL",
+                                "expirationDate": 1723161600000,
+                                "orgId": 100064,
+                                "status": "ACTIVE",
+                                "teamId": 89739,
+                                "teamKey": "dickssportinggoodsretailemployees"
+                            }
+                        ]
+                    },
+                    "creationDate": 1715125090757
+                },
+                {
+                    "liker": {
+                        "uuid": "FB9E3B49FA1F4F8E9F6C2DE27512E86A",
+                        "userId": 6372121,
+                        "firstName": "Katie",
+                        "lastName": "Shelley",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1713670241/navu61l4o2isuddf0fir.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714435634346
+                },
+                {
+                    "liker": {
+                        "uuid": "913AD0BB72B54DDF94D8EFE1D8DDFD7D",
+                        "userId": 5470224,
+                        "firstName": "Jacquelyn",
+                        "lastName": "Allison",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1686843916/v4fetlqvxuxupdmkwixh.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714406726826
+                }
+            ],
+            "liked": false,
+            "commentCount": 2,
+            "comments": [
+                {
+                    "comment": "WOAH! You are looking like a Brooks Guru!!!",
+                    "id": "f0d3a337-eb69-4345-a0f9-154e65e504a4",
+                    "commenter": {
+                        "uuid": "913AD0BB72B54DDF94D8EFE1D8DDFD7D",
+                        "userId": 5470224,
+                        "firstName": "Jacquelyn",
+                        "lastName": "Allison",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1686843916/v4fetlqvxuxupdmkwixh.jpg",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714406749509,
+                    "modifiedDate": 1714406749509
+                },
+                {
+                    "comment": "Love to see it!!",
+                    "id": "96796041-768d-4cb0-a3ef-d6ec981e8422",
+                    "commenter": {
+                        "uuid": "FDCC668F5FCA4254BEF9AC8DE35B36C2",
+                        "userId": 5837858,
+                        "firstName": "Sybil",
+                        "lastName": "Anast",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1698720396/f6vdvxrhoqs8ptmgog58.jpg",
+                        "expertProfileVisibility": "PUBLIC"
+                    },
+                    "creationDate": 1714577156806,
+                    "modifiedDate": 1714577156806
+                }
+            ],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 14,
+                    "name": "Footwear",
+                    "hyphenatedName": "footwear"
+                },
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "shoes"
+                ],
+                "logos": [
+                    "brooks_running"
+                ],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714263479860,
+        "item": {
+            "id": "a5b8aa94-10ab-4472-81a0-54f20084e5c3",
+            "owner": {
+                "uuid": "F60AB41F7A314584808C11A2D50C921B",
+                "userId": 5156328,
+                "firstName": "Elise",
+                "lastName": "Hedglen",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1588012140/ud15a2gpir7igfqonxqp.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1809820800000,
+                        "orgId": 127937,
+                        "status": "ACTIVE",
+                        "teamId": 1110,
+                        "teamKey": "usairforce"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1714780800000,
+                        "orgId": 186224,
+                        "status": "EXPIRED",
+                        "teamId": 2779,
+                        "teamKey": "amc"
+                    }
+                ]
+            },
+            "description": "Lost Dutchman Marathon, #16. February, 2022",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "smartwool",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/9dfaeea81c7a0bef/1714580749/brandAvatar.png",
+                    "orgName": "Smartwool",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "hokaoneone",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/567709dc76c651a6/1714580749/brandAvatar.png",
+                    "orgName": "HOKA ONE ONE",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [
+                {
+                    "orgId": 76024,
+                    "orgName": "Garmin",
+                    "productCode": "010-01689-02",
+                    "productDetailPageUrl": "/product/garmin-forerunner-35-frost-blue/76024?p=010-01689-02",
+                    "productImageFilename": "R_Forerunner35_HR_2003.2.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/R_Forerunner35_HR_2003.2.jpg",
+                    "productName": "Forerunner 35, Frost Blue",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--kxpkYs3t--/v1714263479/ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa.jpg",
+            "images": {
+                "publicId": "ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--kxpkYs3t--/v1714263479/ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--rKpoBZdh--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--RsuioJCx--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--HNcFOD6F--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--HFfbtKZE--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/F60AB41F7A314584808C11A2D50C921B/b3ab31d8-61d9-4050-a33e-d40e57c71caa",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714263479860,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714262358003,
+        "item": {
+            "id": "42061aea-ffd2-4d74-8b9c-a6170f836db1",
+            "owner": {
+                "uuid": "685B4303E1B646879E1DA41B6CF1FD6F",
+                "userId": 6265925,
+                "firstName": "Jeremy",
+                "lastName": "Anderson",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/co_rgb:99536A,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JA/v1614801417/lite-gray_iqaexe.png",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1745712000000,
+                        "orgId": 100064,
+                        "status": "ACTIVE",
+                        "teamId": 89739,
+                        "teamKey": "dickssportinggoodsretailemployees"
+                    }
+                ]
+            },
+            "description": "Ran competitively in college. ",
+            "date": [
+                2024,
+                4,
+                27
+            ],
+            "location": {
+                "lat": 0,
+                "name": "Minneapolis, Minnesota "
+            },
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--L31o7KwB--/v1/ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41.jpg",
+            "images": {
+                "publicId": "ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--L31o7KwB--/v1/ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41.jpg",
+                    "dimension": {
+                        "width": 2000,
+                        "height": 2000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--_5AHNS_1--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--7xXU3AmG--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--8t1LfxWE--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--fBfSoPxE--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/685B4303E1B646879E1DA41B6CF1FD6F/9274752f-20e6-455f-8743-1ecffb720b41",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714262358003,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714261476685,
+        "item": {
+            "id": "2aa194bb-d710-4034-b04b-e4992511f22b",
+            "owner": {
+                "uuid": "F60AB41F7A314584808C11A2D50C921B",
+                "userId": 5156328,
+                "firstName": "Elise",
+                "lastName": "Hedglen",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1588012140/ud15a2gpir7igfqonxqp.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1809820800000,
+                        "orgId": 127937,
+                        "status": "ACTIVE",
+                        "teamId": 1110,
+                        "teamKey": "usairforce"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1714780800000,
+                        "orgId": 186224,
+                        "status": "EXPIRED",
+                        "teamId": 2779,
+                        "teamKey": "amc"
+                    }
+                ]
+            },
+            "description": "Saguaro Half Marathon, March, 2021",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "nathansports",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/f2bd750ab4287814/1707238993/brandAvatar.png",
+                    "orgName": "Nathan Sports",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [
+                {
+                    "orgId": 76024,
+                    "orgName": "Garmin",
+                    "productCode": "010-01689-02",
+                    "productDetailPageUrl": "/product/garmin-forerunner-35-frost-blue/76024?p=010-01689-02",
+                    "productImageFilename": "R_Forerunner35_HR_2003.2.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/R_Forerunner35_HR_2003.2.jpg",
+                    "productName": "Forerunner 35, Frost Blue",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 76533,
+                    "orgName": "La Sportiva",
+                    "productCode": "16V",
+                    "productDetailPageUrl": "/product/la-sportiva-ultra-raptor-womens/76533?p=16V",
+                    "productImageFilename": "16V_900310_UltraRaptorWomens_CarbonBeet_1.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/lasportiva/images/product/src/sc.400.400.bf/16V_900310_UltraRaptorWomens_CarbonBeet_1.jpg",
+                    "productName": "Ultra Raptor - Womens",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 25882,
+                    "orgName": "Smartwool",
+                    "productCode": "Smartwool",
+                    "productDetailPageUrl": "/product/smartwool-smartwool/25882?p=Smartwool",
+                    "productName": "Smartwool",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s---RvmscG0--/v1714261476/ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14.jpg",
+            "images": {
+                "publicId": "ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s---RvmscG0--/v1714261476/ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--DhawIqpb--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--mzcG7Ctz--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--_9LY2_Uy--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--bLMyu6EH--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/F60AB41F7A314584808C11A2D50C921B/0eed7b00-9e96-42fd-ac53-d927246a5a14",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714261476685,
+            "likeCount": 1,
+            "likes": [
+                {
+                    "liker": {
+                        "uuid": "926A7FD04662413EBEF56F8F94FF18D5",
+                        "userId": 6191509,
+                        "firstName": "Ed",
+                        "lastName": "Lerner",
+                        "avatar": "https://res.cloudinary.com/experticity/image/upload/co_rgb:E2BD00,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:EL/v1614801417/lite-gray_iqaexe.png",
+                        "expertProfileVisibility": "UNSPECIFIED"
+                    },
+                    "creationDate": 1714509079193
+                }
+            ],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714261166237,
+        "item": {
+            "id": "b0129540-b8cd-4a03-9658-31da1e0a7b43",
+            "owner": {
+                "uuid": "F60AB41F7A314584808C11A2D50C921B",
+                "userId": 5156328,
+                "firstName": "Elise",
+                "lastName": "Hedglen",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1588012140/ud15a2gpir7igfqonxqp.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1809820800000,
+                        "orgId": 127937,
+                        "status": "ACTIVE",
+                        "teamId": 1110,
+                        "teamKey": "usairforce"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1714780800000,
+                        "orgId": 186224,
+                        "status": "EXPIRED",
+                        "teamId": 2779,
+                        "teamKey": "amc"
+                    }
+                ]
+            },
+            "description": "Great Smoky Mountains Half Marathon, Townsend, TN, September, 2021.",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "nathansports",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/f2bd750ab4287814/1707238993/brandAvatar.png",
+                    "orgName": "Nathan Sports",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [
+                {
+                    "orgId": 76024,
+                    "orgName": "Garmin",
+                    "productCode": "010-01689-02",
+                    "productDetailPageUrl": "/product/garmin-forerunner-35-frost-blue/76024?p=010-01689-02",
+                    "productImageFilename": "R_Forerunner35_HR_2003.2.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/R_Forerunner35_HR_2003.2.jpg",
+                    "productName": "Forerunner 35, Frost Blue",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 268897,
+                    "orgName": "THORLO Socks",
+                    "productCode": "XCCUEXPERIAMULTIACTIVITY",
+                    "productDetailPageUrl": "/product/thorlo-socks-xccu-experia-174-multi-activity-socks/268897?p=XCCUEXPERIAMULTIACTIVITY",
+                    "productImageFilename": "XCCU_132_Black.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/thorlo/images/product/src/sc.400.400.bf/XCCU_132_Black.jpg",
+                    "productName": "XCCU EXPERIA&#174; MULTI-ACTIVITY SOCKS",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgId": 24550,
+                    "orgName": "Brooks Running",
+                    "productCode": "120329",
+                    "productDetailPageUrl": "/product/brooks-running-adrenaline-gts-21/24550?p=120329",
+                    "productImageFilename": "120329_020_L.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/brooks/images/product/src/sc.400.400.bf/120329_020_L.jpg",
+                    "productName": "Adrenaline GTS 21",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--If7VJwvU--/v1714261165/ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263.jpg",
+            "images": {
+                "publicId": "ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--If7VJwvU--/v1714261165/ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--LHBI2BqU--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--uQnYcS-q--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--NLJoEDsx--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--J2Phb6WM--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/F60AB41F7A314584808C11A2D50C921B/a9c01be7-7307-4c92-8db8-34434d38b263",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714261166237,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714260708065,
+        "item": {
+            "id": "7b4c8176-114d-4d55-a808-ab75ec66c628",
+            "owner": {
+                "uuid": "F60AB41F7A314584808C11A2D50C921B",
+                "userId": 5156328,
+                "firstName": "Elise",
+                "lastName": "Hedglen",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1588012140/ud15a2gpir7igfqonxqp.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1809820800000,
+                        "orgId": 127937,
+                        "status": "ACTIVE",
+                        "teamId": 1110,
+                        "teamKey": "usairforce"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1714780800000,
+                        "orgId": 186224,
+                        "status": "EXPIRED",
+                        "teamId": 2779,
+                        "teamKey": "amc"
+                    }
+                ]
+            },
+            "description": "Vacation Races Grand Circle Trailfest, a 3-day trail running festival based in Kanab, UT. Three timed courses, approximately half-marathon distance each, near Bryce Canyon NP, Zion NP, and Horseshoe Bend, AZ. ",
+            "categoryIds": [
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "brooks",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/acf49d907c1fca2f/1714580749/brandAvatar.png",
+                    "orgName": "Brooks Running",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "smartwool",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/9dfaeea81c7a0bef/1714580749/brandAvatar.png",
+                    "orgName": "Smartwool",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "ultimatedirection",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/f6a9f4e601efdd7a/1707344432/brandAvatar.png",
+                    "orgName": "Ultimate Direction",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "garmin",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/83af24efce590bbd/1714770519/brandAvatar.png",
+                    "orgName": "Garmin",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "darntough",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/d92d682b4e909db7/1550871677/brandAvatar.png",
+                    "orgName": "Darn Tough",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [
+                {
+                    "orgId": 198061,
+                    "orgName": "Zensah",
+                    "productCode": "6059",
+                    "productDetailPageUrl": "/product/zensah-dezign-compression-leg-sleeves/198061?p=6059",
+                    "productImageFilename": "6059-Polka-Dot-Lady-Bug.jpg",
+                    "productImageUrl": "https://cdn.expertvoice.com/io/client/mfg/zensah/images/product/src/sc.400.400.bf/6059-Polka-Dot-Lady-Bug.jpg",
+                    "productName": "DeZign Compression Leg Sleeves",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--bowHtdzY--/v1714260706/ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263.jpg",
+            "images": {
+                "publicId": "ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--bowHtdzY--/v1714260706/ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263.jpg",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--w6vQ7-ZJ--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--6rEcKdoj--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--MSBdlzN_--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--7Dl7tkAt--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/F60AB41F7A314584808C11A2D50C921B/70911b19-965d-451c-8696-09d1f3c36263",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714260708065,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "mountain",
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714254723860,
+        "item": {
+            "id": "36eb2d71-42c2-40de-b973-b620a12d9401",
+            "owner": {
+                "uuid": "CC0F17AE9E6F4E40BCA312A1A54F97AD",
+                "userId": 6354291,
+                "firstName": "Liana",
+                "lastName": "Hobgood",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/co_rgb:2ABFA6,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:LH/v1614801417/lite-gray_iqaexe.png",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1800921600000,
+                        "orgId": 1,
+                        "status": "ACTIVE",
+                        "teamId": 413091,
+                        "teamKey": "healthcareprofressionals"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1800921600000,
+                        "orgId": 128386,
+                        "status": "ACTIVE",
+                        "teamId": 1132,
+                        "teamKey": "sportstherapists"
+                    }
+                ]
+            },
+            "description": "Perfect size for water at work, or backyard (cocktail) trail walks with the dog. Keeps things cold, not too big that it will break your wrist trying to lift it up. The proud owner of three different colors! ",
+            "location": {
+                "lat": 43.85183,
+                "lon": -70.10515,
+                "name": "Freeport, ME"
+            },
+            "categoryIds": [
+                16,
+                1,
+                17,
+                36,
+                6,
+                22,
+                26,
+                43,
+                13,
+                29,
+                15
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "camelbak",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/d8c9a3e63f047420/1711988926/brandAvatar.png",
+                    "orgName": "CamelBak",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--ybIhe6gV--/v1/ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f.jpg",
+            "images": {
+                "publicId": "ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--ybIhe6gV--/v1/ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f.jpg",
+                    "dimension": {
+                        "width": 2400,
+                        "height": 2401
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--MxjLXNyD--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--AA0VaYST--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--MUK9eoNv--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--XTckNxgG--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/CC0F17AE9E6F4E40BCA312A1A54F97AD/e4d9563a-a0f7-49cc-9072-e364df20c84f",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1714254723860,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                },
+                {
+                    "categoryId": 15,
+                    "name": "Golf",
+                    "hyphenatedName": "golf"
+                },
+                {
+                    "categoryId": 17,
+                    "name": "Hike",
+                    "hyphenatedName": "hike"
+                },
+                {
+                    "categoryId": 6,
+                    "name": "Camping",
+                    "hyphenatedName": "camping"
+                },
+                {
+                    "categoryId": 29,
+                    "name": "Ski",
+                    "hyphenatedName": "ski"
+                },
+                {
+                    "categoryId": 16,
+                    "name": "Health & Wellness",
+                    "hyphenatedName": "health-wellness"
+                },
+                {
+                    "categoryId": 13,
+                    "name": "Fitness & Training",
+                    "hyphenatedName": "fitness-training"
+                },
+                {
+                    "categoryId": 36,
+                    "name": "Travel",
+                    "hyphenatedName": "travel"
+                },
+                {
+                    "categoryId": 1,
+                    "name": "Animals & Pets",
+                    "hyphenatedName": "animals-pets"
+                },
+                {
+                    "categoryId": 22,
+                    "name": "Nutrition",
+                    "hyphenatedName": "nutrition"
+                },
+                {
+                    "categoryId": 43,
+                    "name": "Food & Cooking",
+                    "hyphenatedName": "food-cooking"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1714144239629,
+        "item": {
+            "id": "55b213c0-36f9-447d-bf54-d132dfe087ab",
+            "owner": {
+                "uuid": "858F66ED730641E0A5B4F1AB019167FA",
+                "userId": 4776791,
+                "firstName": "Nathan",
+                "lastName": "Christensen",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1712680718/vzkcumuwdwxjnt76vwqa.jpg",
+                "expertProfileVisibility": "PUBLIC",
+                "teamRelationships": [
+                    {
+                        "teamType": "RETAIL",
+                        "expirationDate": 1651708800000,
+                        "orgId": 148,
+                        "status": "INACTIVE",
+                        "teamId": 6920,
+                        "teamKey": "als"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1742601600000,
+                        "orgId": 89845,
+                        "status": "ACTIVE",
+                        "teamId": 533732,
+                        "teamKey": "aaa8d3ad9c8f7a3eced3b3a997913a8e"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 32503593600000,
+                        "orgId": 139928,
+                        "status": "ACTIVE",
+                        "teamId": 319783,
+                        "teamKey": "nesa"
+                    }
+                ]
+            },
+            "description": "The Oregon Coast was beautiful!",
+            "location": {
+                "lat": 44.15341,
+                "lon": -123.92778,
+                "name": "Oregon Coast"
+            },
+            "categoryIds": [
+                17,
+                26
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "garmin",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/83af24efce590bbd/1713803066/brandAvatar.png",
+                    "orgName": "Garmin",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "salomon",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/7f4b5d0ae167756d/1711995851/brandAvatar.png",
+                    "orgName": "Salomon",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--N6fFb_Yd--/v1/ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745.jpg",
+            "images": {
+                "publicId": "ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--N6fFb_Yd--/v1/ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745.jpg",
+                    "dimension": {
+                        "width": 1229,
+                        "height": 1228
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--3ynPP7Ne--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--DrzaRbof--/c_fill,f_auto,h_39,q_auto,w_40/v1/ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745",
+                    "dimension": {
+                        "width": 40,
+                        "height": 39
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--56dfTclk--/c_fill,f_auto,h_349,q_auto,w_350/v1/ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745",
+                    "dimension": {
+                        "width": 350,
+                        "height": 349
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--wJTOwqKa--/c_fill,f_auto,h_999,q_auto,w_1000/v1/ugc/858F66ED730641E0A5B4F1AB019167FA/9d1910cf-9353-4947-a407-fc03b1c45745",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 999
+                    }
+                }
+            },
+            "creationDate": 1714144239629,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                },
+                {
+                    "categoryId": 17,
+                    "name": "Hike",
+                    "hyphenatedName": "hike"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "mountain",
+                    "outdoors",
+                    "water"
+                ]
+            }
+        }
+    },
+    {
+        "itemType": "UGC",
+        "reason": "RECENT",
+        "time": 1713422340451,
+        "item": {
+            "id": "42ab84f9-cbaa-4609-b7a2-ea97281618a4",
+            "owner": {
+                "uuid": "4964B9DE942240FBB3B98C998CC84C90",
+                "userId": 5941699,
+                "firstName": "Joey",
+                "lastName": "Ireland",
+                "avatar": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1713410898/n2madcao0c2ibmwzdsr1.jpg",
+                "expertProfileVisibility": "UNSPECIFIED",
+                "teamRelationships": [
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1808092800000,
+                        "orgId": 1,
+                        "status": "ACTIVE",
+                        "teamId": 413091,
+                        "teamKey": "healthcareprofressionals"
+                    },
+                    {
+                        "teamType": "PROMOTIVE",
+                        "expirationDate": 1808006400000,
+                        "orgId": 1,
+                        "status": "ACTIVE",
+                        "teamId": 1108,
+                        "teamKey": "usarmy"
+                    }
+                ]
+            },
+            "description": "Set up for my first Half Marathon",
+            "location": {
+                "lat": 34.20031,
+                "lon": -119.17983,
+                "name": "Oxnard - Oxnard, CA"
+            },
+            "categoryIds": [
+                16,
+                26,
+                13
+            ],
+            "brandTags": [
+                {
+                    "orgKey": "goodr",
+                    "orgName": "Goodr",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "beats",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/e184024efafafd6f/1620928998/brandAvatar.png",
+                    "orgName": "Beats",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "orgKey": "salomon",
+                    "orgAvatar": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/7f4b5d0ae167756d/1711995851/brandAvatar.png",
+                    "orgName": "Salomon",
+                    "x": 0,
+                    "y": 0
+                }
+            ],
+            "productTags": [],
+            "tags": [],
+            "photoURLKey": "https://res.cloudinary.com/experticity/image/authenticated/s--um45dqAs--/v1/ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7.jpg",
+            "images": {
+                "publicId": "ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7",
+                "original": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--um45dqAs--/v1/ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7.jpg",
+                    "dimension": {
+                        "width": 2316,
+                        "height": 2317
+                    }
+                },
+                "thumbnail": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s---pv9waR8--/c_fill,f_auto,h_200,q_auto,w_200/v1/ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7",
+                    "dimension": {
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                "small": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--MbpArmzi--/c_fill,f_auto,h_40,q_auto,w_40/v1/ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7",
+                    "dimension": {
+                        "width": 40,
+                        "height": 40
+                    }
+                },
+                "medium": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--i0MfLDNB--/c_fill,f_auto,h_350,q_auto,w_350/v1/ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7",
+                    "dimension": {
+                        "width": 350,
+                        "height": 350
+                    }
+                },
+                "large": {
+                    "uri": "https://res.cloudinary.com/experticity/image/authenticated/s--CRWdO63P--/c_fill,f_auto,h_1000,q_auto,w_1000/v1/ugc/4964B9DE942240FBB3B98C998CC84C90/96669137-9918-4338-8920-aa9b443f1ba7",
+                    "dimension": {
+                        "width": 1000,
+                        "height": 1000
+                    }
+                }
+            },
+            "creationDate": 1713422340451,
+            "likeCount": 0,
+            "likes": [],
+            "liked": false,
+            "commentCount": 0,
+            "comments": [],
+            "flags": [],
+            "entities": {
+                "hashtags": []
+            },
+            "categories": [
+                {
+                    "categoryId": 16,
+                    "name": "Health & Wellness",
+                    "hyphenatedName": "health-wellness"
+                },
+                {
+                    "categoryId": 26,
+                    "name": "Run",
+                    "hyphenatedName": "run"
+                },
+                {
+                    "categoryId": 13,
+                    "name": "Fitness & Training",
+                    "hyphenatedName": "fitness-training"
+                }
+            ],
+            "awards": [],
+            "inferredSubjects": {
+                "items": [
+                    "sunglasses",
+                    "person"
+                ],
+                "logos": [],
+                "scene": [
+                    "outdoors"
+                ]
+            }
+        }
+    }
+]
