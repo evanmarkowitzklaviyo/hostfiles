@@ -1,0 +1,3528 @@
+{
+    "nextPage": {
+        "pageSize": 18,
+        "itemTypesMaxTime": {
+            "RECOMMENDATION": 1711440763000
+        },
+        "itemTypesMinTime": {},
+        "categoryIds": [
+            15
+        ],
+        "creatorUuids": [],
+        "placements": [],
+        "sort": "UNSPECIFIED",
+        "source": "SUGGESTED",
+        "version": 3
+    },
+    "feedItemDtos": [
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715807419000,
+            "item": {
+                "id": 480947,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2679196,
+                            "socialismId": 480947,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480947
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2679191,
+                            "socialismId": 480947,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480947
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2679195,
+                            "socialismId": 480947,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480947
+                        }
+                    ]
+                },
+                "body": "I have played a lot of golf over the last 50 years. Started playing with Star flite and Canada Cup, Wilson Ultra and all those hard balls like Pinnacle. Then I got better and move the ladder of better balls till I reached the level of play Titleist was commanding. Needless to say, Titleist didn't  like bad swing and scars where coming fast when your hitting was not up to the task! I have tried lots of other company products like Taylor Made, Bridgestone, Callaway but would always come back to Titleist... until I got my hands on a Srixon. I started with a Z Star, but it was too soft. Tried the Z Star XV and it was good but a little on the firm side. Then they launched the Diamond and, bingo!, that was the one! It's flight suits my game as not only it flies higher but, surprinsingly, also longer with the driver. With shorter clubs, the spin is still there, even with the mid irons. Not the spinniest around the greens, but it does stop quickly enough to get in close range of the pins. I play Srixon ZX 5 mark II and the combination of the ball and the clubs is helping my game, no doubt about that.",
+                "childEntities": [],
+                "createdTime": 1715807419000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1715807419000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1715807419000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great ball at a cheaper price",
+                "url": "/review/480947",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715807419000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5936219,
+                    "uuid": "69A0B7AA20E342EEB797F635E4D90F32",
+                    "creatorType": "USER",
+                    "displayName": "Louis Menard",
+                    "firstName": "Louis",
+                    "lastName": "Menard",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:E2BD00,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:LM/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/69A0B7AA20E342EEB797F635E4D90F32/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 8791,
+                            "teamType": "RETAIL",
+                            "teamName": "Brunelle Sport Retail Employees",
+                            "teamKey": "brunellesportretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 2419,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-08-07T18:00:00-0600",
+                            "expirationDate": "2025-05-14T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 70998,
+                            "teamType": "RETAIL",
+                            "teamName": "Nevada Bob's Golf - Canada Retail Employees",
+                            "teamKey": "nevadabobsgolfcanadaretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 76329,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-21T17:00:00-0700",
+                            "expirationDate": "2025-02-20T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Louis Menard",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "MZSTARD2",
+                    "alternateIds": [
+                        "MZSTARD2-CA"
+                    ],
+                    "entityType": "PRODUCT",
+                    "ownerId": 187468,
+                    "ownerDescription": "Srixon / Cleveland Golf / XXIO",
+                    "ownerKey": "clevelandgolf",
+                    "description": "Z-STAR DIAMOND",
+                    "imageFilename": "SX23-Balls-ZSTR8-DIAMOND2-2.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/clevelandgolf/images/product/src/sc.400.400.bf/SX23-Balls-ZSTR8-DIAMOND2-2.jpg",
+                    "url": "/product/srixon-cleveland-golf-xxio-z-star-diamond/187468?p=MZSTARD2",
+                    "metadata": {
+                        "currentDescription": "Z-STAR DIAMOND",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/clevelandgolf/images/product/src/sc.400.400.bf/SX23-Balls-ZSTR8-DIAMOND2-2.jpg",
+                        "currentImageFile": "SX23-Balls-ZSTR8-DIAMOND2-2.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715805915000,
+            "item": {
+                "id": 480936,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2679117,
+                            "socialismId": 480936,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480936
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2679118,
+                            "socialismId": 480936,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480936
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2679120,
+                            "socialismId": 480936,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480936
+                        }
+                    ]
+                },
+                "body": "I used to play Vokey wedges but when I discovered RTX wedges, I replaced the former by the later in a hurry. Better distance control, more spin from full, half and quarter swing, good looking, especially in black satin! And as Ping did it with Hydropearl, Cleveland put Hydrazip on the RTX for better results when playing in wet conditions. I play 48 (mid bounce), 54 (high bounce) and 60 (mid bounce) and I can't see when I'll let go thoses wedges from my bag.",
+                "childEntities": [],
+                "createdTime": 1715805915000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1715805915000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1715805915000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Best wedges at best price",
+                "url": "/review/480936",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715805915000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5936219,
+                    "uuid": "69A0B7AA20E342EEB797F635E4D90F32",
+                    "creatorType": "USER",
+                    "displayName": "Louis Menard",
+                    "firstName": "Louis",
+                    "lastName": "Menard",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:E2BD00,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:LM/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/69A0B7AA20E342EEB797F635E4D90F32/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 8791,
+                            "teamType": "RETAIL",
+                            "teamName": "Brunelle Sport Retail Employees",
+                            "teamKey": "brunellesportretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 2419,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-08-07T18:00:00-0600",
+                            "expirationDate": "2025-05-14T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 70998,
+                            "teamType": "RETAIL",
+                            "teamName": "Nevada Bob's Golf - Canada Retail Employees",
+                            "teamKey": "nevadabobsgolfcanadaretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 76329,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-21T17:00:00-0700",
+                            "expirationDate": "2025-02-20T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Louis Menard",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "MRTX6ZCTS",
+                    "alternateIds": [
+                        "MRTX6ZCTS-CA"
+                    ],
+                    "entityType": "PRODUCT",
+                    "ownerId": 187468,
+                    "ownerDescription": "Srixon / Cleveland Golf / XXIO",
+                    "ownerKey": "clevelandgolf",
+                    "description": "RTX 6 ZipCore Tour Satin Wedge",
+                    "imageFilename": "CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/clevelandgolf/images/product/src/sc.400.400.bf/CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg",
+                    "url": "/product/srixon-cleveland-golf-xxio-rtx-6-zipcore-tour-satin-wedge/187468?p=MRTX6ZCTS",
+                    "metadata": {
+                        "currentDescription": "RTX 6 ZipCore Tour Satin Wedge",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/clevelandgolf/images/product/src/sc.400.400.bf/CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg",
+                        "currentImageFile": "CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715649706000,
+            "item": {
+                "id": 480418,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1715649689/bjmoalyn1o54kqenswdg.jpg",
+                                    "cropX": 0,
+                                    "cropY": 801,
+                                    "cropWidth": 2400,
+                                    "cropHeight": 2400,
+                                    "sortOrder": 0,
+                                    "id": 33868,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_801/c_limit,h_450,q_auto:good,w_450/v1715649689/bjmoalyn1o54kqenswdg.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_801/c_limit,h_650,q_auto:best,w_650/v1715649689/bjmoalyn1o54kqenswdg.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2675722,
+                            "socialismId": 480418,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480418
+                        }
+                    ],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2675727,
+                            "socialismId": 480418,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480418
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 1,
+                            "id": 2675724,
+                            "socialismId": 480418,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480418
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2675728,
+                            "socialismId": 480418,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480418
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2675726,
+                            "socialismId": 480418,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480418
+                        }
+                    ]
+                },
+                "body": "No it wasn’t a statement is was a honest question. \n\nThree weeks bought myself a brand new set of callaway irons excited for the season to come I got and get fitted and buy the clubs through a call in order super pumped and ready to go \n\nThen to today I’m at the range trying to find a groove with new clubs practicing my first time hitting them at a range. \n\nIt breaks… so I ask again Why should you buy brand new callaway irons ? \n\n(I have always been a callaway fan I’ve always hit callaway but this was the first time I bought new ones in a couple of years previously I had big Bertha irons) ",
+                "childEntities": [],
+                "createdTime": 1715649706000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1715649706000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "3",
+                    "stars": "1"
+                },
+                "modifiedTime": 1715649706000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Why should you buy Ai smokes from callaway? ",
+                "url": "/review/480418",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715649706000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6384779,
+                    "uuid": "87F86569BA484D0B862C2118F59C6878",
+                    "creatorType": "USER",
+                    "displayName": "Caden Bird",
+                    "firstName": "Caden",
+                    "lastName": "Bird",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1709692906/npap4qauylyigyrpg8cu.jpg",
+                    "profileLink": "/user/87F86569BA484D0B862C2118F59C6878/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 89739,
+                            "teamType": "RETAIL",
+                            "teamName": "Dick's Sporting Goods Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/100064/contrib/images/logo_DicksSportingGoods.png?m=1470864291000",
+                            "teamKey": "dickssportinggoodsretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 100064,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-03-05T17:00:00-0700",
+                            "expirationDate": "2025-03-04T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "true"
+                    },
+                    "fullName": "Caden Bird",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "irons-2024-paradym-ai-smoke",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 114771,
+                    "ownerDescription": "Callaway Golf",
+                    "ownerKey": "callaway",
+                    "description": "Paradym Ai Smoke Irons",
+                    "imageFilename": "irons-2024-paradym-ai-smoke___1.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/callaway/images/product/src/sc.400.400.bf/irons-2024-paradym-ai-smoke___1.jpg",
+                    "url": "/product/callaway-golf-paradym-ai-smoke-irons/114771?p=irons-2024-paradym-ai-smoke",
+                    "metadata": {
+                        "currentDescription": "Paradym Ai Smoke Irons",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/callaway/images/product/src/sc.400.400.bf/irons-2024-paradym-ai-smoke___1.jpg",
+                        "currentImageFile": "irons-2024-paradym-ai-smoke___1.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1715471550000,
+            "item": {
+                "id": 480017,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2673064,
+                            "socialismId": 480017,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480017
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2673067,
+                            "socialismId": 480017,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480017
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2673070,
+                            "socialismId": 480017,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 480017
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                },
+                "body": "The feel of this rangefinder is phenomenal (good feel and interface). Functionality is very easy to use, great and clear directions for setup and the app that integrates with the rangefinder. Seemed to be very accurate the 1 round I used it. The whole combo makes an exceptional value. The side magnet is very strong and makes it great the stick to the cart. - however this proved to be a downside as i forgot it on the side of the cart and then it was never returned. It is a great device and I would recommend it to anyone. I just wish I had been used to the magnet function to prevent me forgetting it :(",
+                "childEntities": [],
+                "createdTime": 1715471550000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1715471550000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "9",
+                    "stars": "5"
+                },
+                "modifiedTime": 1715471550000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great for the price - just don’t forget it!",
+                "url": "/review/480017",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1715471550000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6140888,
+                    "uuid": "CFB14066711B428E920A737CDD395669",
+                    "creatorType": "USER",
+                    "displayName": "Steve Sartore",
+                    "firstName": "Steve",
+                    "lastName": "Sartore",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:CC913D,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:SS/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/CFB14066711B428E920A737CDD395669/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1109,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "U.S. Navy - Military",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/127936/contrib/images/Navy-2024.png?m=1714667150000",
+                            "teamKey": "usnavy",
+                            "teamPrivateToProfile": false,
+                            "orgId": 127936,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-04-26T18:00:00-0600",
+                            "expirationDate": "2026-04-26T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-04-17T06:00:00.000Z",
+                        "brand_certified": "false",
+                        "verified_product_owner": "true"
+                    },
+                    "fullName": "Steve Sartore",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "SS-LSR-L2",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 552129,
+                    "ownerDescription": "Shot Scope",
+                    "ownerKey": "shotscope",
+                    "description": "Shot Scope PRO L2 Laser Rangefinder",
+                    "imageFilename": "SS-LSR-L2-BLE_2.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/shotscope/images/product/src/sc.400.400.bf/SS-LSR-L2-BLE_2.jpg",
+                    "url": "/product/shot-scope-shot-scope-pro-l2-laser-rangefinder/552129?p=SS-LSR-L2",
+                    "metadata": {
+                        "currentDescription": "Shot Scope PRO L2 Laser Rangefinder",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/shotscope/images/product/src/sc.400.400.bf/SS-LSR-L2-BLE_2.jpg",
+                        "currentImageFile": "SS-LSR-L2-BLE_2.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714570545000,
+            "item": {
+                "id": 477799,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2658319,
+                            "socialismId": 477799,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477799
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2658320,
+                            "socialismId": 477799,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477799
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2658323,
+                            "socialismId": 477799,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 477799
+                        }
+                    ]
+                },
+                "body": "Great watch for keeping track of stats. Being able to know what distances you've been hitting with a certain club is great! The GPS distances to holes seem to be pretty spot on as well. There's even a swing tempo trainer which is pretty neat (Heads up: Seems to only work when you're actually hitting a ball)\n\nI actually wear it 24/7 because of the health monitoring, which also works great. The sleep tracking is probably my favorite feature, but there's all kinds of other good stuff as well. \n\nOverall I would Highly recommend the S70 to anyone. I can't even imagine life without it now. ",
+                "childEntities": [],
+                "createdTime": 1714570545000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714570545000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714570545000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great golf watch!",
+                "url": "/review/477799",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714570545000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6426062,
+                    "uuid": "53A5683751914A5EAB3906CE71412C23",
+                    "creatorType": "USER",
+                    "displayName": "Sam Cuomo",
+                    "firstName": "Sam",
+                    "lastName": "Cuomo",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:70B5B4,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:SC/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/53A5683751914A5EAB3906CE71412C23/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 56050,
+                            "teamType": "RETAIL",
+                            "teamName": "Fastenal Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/ed89f49281494768/1707786906000/brandAvatar.png",
+                            "teamKey": "fastenalretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 59015,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-04-29T18:00:00-0600",
+                            "expirationDate": "2025-04-30T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Sam Cuomo",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "010-02746-02",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 76024,
+                    "ownerDescription": "Garmin",
+                    "ownerKey": "garmin",
+                    "description": "Approach&#174; S70 - 47mm, Black with Black Band",
+                    "imageFilename": "010-02746-02_01.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/010-02746-02_01.jpg",
+                    "url": "/product/garmin-approach-174-s70-47mm-black-with-black-band/76024?p=010-02746-02",
+                    "metadata": {
+                        "currentDescription": "Approach&#174; S70 - 47mm, Black with Black Band",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/010-02746-02_01.jpg",
+                        "currentImageFile": "010-02746-02_01.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1714052274000,
+            "item": {
+                "id": 476411,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1714051991/ygt3tujjupdzwbcm9tff.jpg",
+                                    "cropX": 0,
+                                    "cropY": 462,
+                                    "cropWidth": 2400,
+                                    "cropHeight": 2400,
+                                    "sortOrder": 0,
+                                    "id": 33454,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_462/c_limit,h_450,q_auto:good,w_450/v1714051991/ygt3tujjupdzwbcm9tff.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_462/c_limit,h_650,q_auto:best,w_650/v1714051991/ygt3tujjupdzwbcm9tff.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1714052039/kpnzq9oq7bjcskvnliy4.jpg",
+                                    "cropX": 0,
+                                    "cropY": 599,
+                                    "cropWidth": 2400,
+                                    "cropHeight": 2400,
+                                    "sortOrder": 1,
+                                    "id": 33455,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_599/c_limit,h_450,q_auto:good,w_450/v1714052039/kpnzq9oq7bjcskvnliy4.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_599/c_limit,h_650,q_auto:best,w_650/v1714052039/kpnzq9oq7bjcskvnliy4.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1714052165/duherje1sg78moaxjsca.jpg",
+                                    "cropX": 0,
+                                    "cropY": 641,
+                                    "cropWidth": 3024,
+                                    "cropHeight": 3024,
+                                    "sortOrder": 2,
+                                    "id": 33456,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_641/c_limit,h_450,q_auto:good,w_450/v1714052165/duherje1sg78moaxjsca.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_641/c_limit,h_650,q_auto:best,w_650/v1714052165/duherje1sg78moaxjsca.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1714052206/hlbiscrjn7qqzzeyjews.jpg",
+                                    "cropX": 0,
+                                    "cropY": 549,
+                                    "cropWidth": 2400,
+                                    "cropHeight": 2400,
+                                    "sortOrder": 3,
+                                    "id": 33457,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_549/c_limit,h_450,q_auto:good,w_450/v1714052206/hlbiscrjn7qqzzeyjews.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_549/c_limit,h_650,q_auto:best,w_650/v1714052206/hlbiscrjn7qqzzeyjews.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2649133,
+                            "socialismId": 476411,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476411
+                        }
+                    ],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2649134,
+                            "socialismId": 476411,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476411
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2649132,
+                            "socialismId": 476411,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476411
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2649131,
+                            "socialismId": 476411,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476411
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2649139,
+                            "socialismId": 476411,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476411
+                        }
+                    ]
+                },
+                "body": "I play a lot of golf.  I owned an Apple Ultra Watch for about a year but wanted the dedicated golf app and more advanced features.  I’m so glad I made the switch.\n\nThe Garmin Fenix 7 Pro Titanium is the best watch I have ever owned. The solar is awesome, the golf app is so accurate. This watch utilizes every GPS configuration available for maximum accuracy, while still maintaining great battery life!\n\nI average about 15 GPS tracked hours per week and still get 10 days or so in between charges. I expect to pick up a tad bit more with the solar heading into the summer!\n\nIf you’re looking for a tough, rugged, do everything watch. This is it. It tracks anything you can think of. It’s also helped me manage my stress better on a daily basis. \n\nI would recommend this to anyone looking to improve themselves in anything. From Golf to general health. \n\nTitanium Bezel, Sapphire Crystal, and the best strap changing setup in the industry.\n\nA winner from Garmin!  ",
+                "childEntities": [],
+                "createdTime": 1714052274000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1714052274000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "4",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714052274000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Sold my Ultra and never looked back!",
+                "url": "/review/476411",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714052274000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5824911,
+                    "uuid": "00DDA3C1333B43C795787DD6D4297EFB",
+                    "creatorType": "USER",
+                    "displayName": "Justin Lammers",
+                    "firstName": "Justin",
+                    "lastName": "Lammers",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:2ABFA6,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JL/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/00DDA3C1333B43C795787DD6D4297EFB/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 14244,
+                            "teamType": "RETAIL",
+                            "teamName": "PGA TOUR Superstore Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/10957/contrib/images/PGA2x1.png?m=1661443622000",
+                            "teamKey": "pgatoursuperstore",
+                            "teamPrivateToProfile": false,
+                            "orgId": 10957,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-09-15T18:00:00-0600",
+                            "expirationDate": "2025-01-20T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-03-21T06:00:00.000Z",
+                        "brand_certified": "false",
+                        "verified_product_owner": "true"
+                    },
+                    "fullName": "Justin Lammers",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "010-02777-20",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 76024,
+                    "ownerDescription": "Garmin",
+                    "ownerKey": "garmin",
+                    "description": "fenix&#174; 7 Pro Titanium with Fog Gray/Ember Orange Band",
+                    "imageFilename": "010-02777-20_01.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/010-02777-20_01.jpg",
+                    "url": "/product/garmin-fenix-174-7-pro-titanium-with-fog-gray-ember-orange-band/76024?p=010-02777-20",
+                    "metadata": {
+                        "currentDescription": "fenix&#174; 7 Pro Titanium with Fog Gray/Ember Orange Band",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/garmin/images/product/src/sc.400.400.bf/010-02777-20_01.jpg",
+                        "currentImageFile": "010-02777-20_01.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713964432000,
+            "item": {
+                "id": 476183,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [
+                        {
+                            "attributeKey": "videos",
+                            "value": [
+                                {
+                                    "duration": 10,
+                                    "sortOrder": 0,
+                                    "thumbnailUrl": "https://res.cloudinary.com/experticity/image/upload/v1713964418/azechyrlbrokugfjbzwg.jpg",
+                                    "url": "https://res.cloudinary.com/experticity/video/upload/v1713964413/ofz2byjlztubzwtbwysj.mov",
+                                    "variations": [
+                                        {
+                                            "type": "m3u8",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/sp_4k/v1713964413/ofz2byjlztubzwtbwysj.m3u8",
+                                            "id": 2189,
+                                            "videoId": 660
+                                        },
+                                        {
+                                            "type": "mpd",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/sp_4k/v1713964413/ofz2byjlztubzwtbwysj.mpd",
+                                            "id": 2190,
+                                            "videoId": 660
+                                        },
+                                        {
+                                            "type": "mp4",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/vc_auto/v1713964413/ofz2byjlztubzwtbwysj.mp4",
+                                            "id": 2191,
+                                            "videoId": 660
+                                        },
+                                        {
+                                            "type": "mp4",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/fl_attachment/v1713964413/ofz2byjlztubzwtbwysj.mp4",
+                                            "id": 2192,
+                                            "videoId": 660
+                                        }
+                                    ],
+                                    "id": 660
+                                }
+                            ],
+                            "id": 2647625,
+                            "socialismId": 476183,
+                            "attributeType": "VIDEO",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476183
+                        }
+                    ],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2647627,
+                            "socialismId": 476183,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476183
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2647632,
+                            "socialismId": 476183,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476183
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2647631,
+                            "socialismId": 476183,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476183
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2647626,
+                            "socialismId": 476183,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476183
+                        }
+                    ]
+                },
+                "body": "These were a huge upgrade from my previous clubs. I used an old set from early 2000’s that was a mix from a few of my grandparents. Afterwards when I got the 770’s I now put the 4iron around 2-210 carry when it was a struggle to get my 3 iron 200. Overall was a noticeable difference. For a beginner I would recommend the 790’s but if you have been golfing for a bit and genuinely want to get better at the game buying these blades now won’t hurt. ",
+                "childEntities": [],
+                "createdTime": 1713964432000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713964432000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "1",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713964433000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Great clubs ",
+                "url": "/review/476183",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713964432000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6357900,
+                    "uuid": "C5E26285BA3E41239DF596A016FB08EA",
+                    "creatorType": "USER",
+                    "displayName": "Colin Olson",
+                    "firstName": "Colin",
+                    "lastName": "Olson",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:9CD49A,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:CO/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/C5E26285BA3E41239DF596A016FB08EA/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 13975,
+                            "teamType": "RETAIL",
+                            "teamName": "Worldwide Golf Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/10682/contrib/images/logocollage.png?m=1705599817000",
+                            "teamKey": "worldwidegolf",
+                            "teamPrivateToProfile": false,
+                            "orgId": 10682,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-01-30T17:00:00-0700",
+                            "expirationDate": "2025-01-30T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Colin Olson",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "P770 Irons",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 170661,
+                    "ownerDescription": "TaylorMade",
+                    "ownerKey": "taylormadegolf",
+                    "description": "P770 Irons",
+                    "imageFilename": "TA155_zoom_D.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/taylormadegolf/images/product/src/sc.400.400.bf/TA155_zoom_D.jpg",
+                    "url": "/product/taylormade-p770-irons/170661?p=P770+Irons",
+                    "metadata": {
+                        "currentDescription": "P770 Irons",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/taylormadegolf/images/product/src/sc.400.400.bf/TA155_zoom_D.jpg",
+                        "currentImageFile": "TA155_zoom_D.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713916146000,
+            "item": {
+                "id": 476071,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2646879,
+                            "socialismId": 476071,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476071
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2646875,
+                            "socialismId": 476071,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476071
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2646878,
+                            "socialismId": 476071,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476071
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2646880,
+                            "socialismId": 476071,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 476071
+                        }
+                    ]
+                },
+                "body": "Excellent product to help everyone improve their short game. Great feel. I have not putted with a putter that rolls the ball any better than this!  This putter is a great value for your dollar. Everyone that uses this will be extremely happy with their purchase. The AI technology, the Callaway is using on this putter will definitely improve your putting game. you will be extremely happy with your purchase.  ",
+                "childEntities": [],
+                "createdTime": 1713916146000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713916146000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713920757000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Number 1 putter on tour",
+                "url": "/review/476071",
+                "voteCountDto": {
+                    "upVotes": 1,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713916146000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6421563,
+                    "uuid": "130FDB944AD241D799E09A1637AF16AA",
+                    "creatorType": "USER",
+                    "displayName": "Johnny Smith",
+                    "firstName": "Johnny",
+                    "lastName": "Smith",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1713920755/fbpqacp8oo0uy4bss7tn.jpg",
+                    "profileLink": "/user/130FDB944AD241D799E09A1637AF16AA/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 89739,
+                            "teamType": "RETAIL",
+                            "teamName": "Dick's Sporting Goods Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/100064/contrib/images/logo_DicksSportingGoods.png?m=1470864291000",
+                            "teamKey": "dickssportinggoodsretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 100064,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-04-22T18:00:00-0600",
+                            "expirationDate": "2025-04-22T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Johnny Smith",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "putters-2024-ai-one-milled-seven-t-db",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 114771,
+                    "ownerDescription": "Callaway Golf",
+                    "ownerKey": "callaway",
+                    "description": "Ai-ONE Milled Seven T DB Putter",
+                    "imageFilename": "putters-2024-ai-one-milled-seven-t-db___1.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/callaway/images/product/src/sc.400.400.bf/putters-2024-ai-one-milled-seven-t-db___1.jpg",
+                    "url": "/product/callaway-golf-ai-one-milled-seven-t-db-putter/114771?p=putters-2024-ai-one-milled-seven-t-db",
+                    "metadata": {
+                        "currentDescription": "Ai-ONE Milled Seven T DB Putter",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/callaway/images/product/src/sc.400.400.bf/putters-2024-ai-one-milled-seven-t-db___1.jpg",
+                        "currentImageFile": "putters-2024-ai-one-milled-seven-t-db___1.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713839888000,
+            "item": {
+                "id": 475865,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2645527,
+                            "socialismId": 475865,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475865
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 4,
+                            "id": 2645528,
+                            "socialismId": 475865,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475865
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2645524,
+                            "socialismId": 475865,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475865
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2645525,
+                            "socialismId": 475865,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475865
+                        }
+                    ]
+                },
+                "body": "These wedges are solid and get the job done. They are a much firmer wedge than others out there so if you are someone who prefers softer clubs these will be rough. The black finish also looks really good and helps keep the glare down which helps here in AZ in the summer. The full face grooves are another awesome touch Cobra made to these wedges that do help generate good spin around the greens and control on those partial wedge shots. All in all a good club that offers something different to the everyday golfer. ",
+                "childEntities": [],
+                "createdTime": 1713839888000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713839888000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "8",
+                    "stars": "4"
+                },
+                "modifiedTime": 1713839888000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Good wedges for most conditions ",
+                "url": "/review/475865",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713839888000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6258704,
+                    "uuid": "098D69BE66FB470DB41DE391C05A7FCB",
+                    "creatorType": "USER",
+                    "displayName": "Gus Duncan",
+                    "firstName": "Gus",
+                    "lastName": "Duncan",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1700520181/rurbvwqg8qg08b6lc821.jpg",
+                    "profileLink": "/user/098D69BE66FB470DB41DE391C05A7FCB/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 55,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Fire and Rescue",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/fireAndRescue2.jpg?m=1367964397000",
+                            "teamKey": "fireandrescue",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-16T17:00:00-0700",
+                            "expirationDate": "2026-11-15T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 14244,
+                            "teamType": "RETAIL",
+                            "teamName": "PGA TOUR Superstore Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/10957/contrib/images/PGA2x1.png?m=1661443622000",
+                            "teamKey": "pgatoursuperstore",
+                            "teamPrivateToProfile": false,
+                            "orgId": 10957,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-11-19T17:00:00-0700",
+                            "expirationDate": "2024-11-19T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Gus Duncan",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "8133253660889",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 27774,
+                    "ownerDescription": "Cobra Puma Golf",
+                    "ownerKey": "cobragolf",
+                    "description": "SNAKEBITE Black Wedge",
+                    "imageFilename": "jzspebrg0sdklma8e0yg_861ca7f5-69a5-4937-89e4-004b97bc4630.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/cobragolf/images/product/src/sc.400.400.bf/jzspebrg0sdklma8e0yg_861ca7f5-69a5-4937-89e4-004b97bc4630.jpg",
+                    "url": "/product/cobra-puma-golf-snakebite-black-wedge/27774?p=8133253660889",
+                    "metadata": {
+                        "currentDescription": "SNAKEBITE Black Wedge",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/cobragolf/images/product/src/sc.400.400.bf/jzspebrg0sdklma8e0yg_861ca7f5-69a5-4937-89e4-004b97bc4630.jpg",
+                        "currentImageFile": "jzspebrg0sdklma8e0yg_861ca7f5-69a5-4937-89e4-004b97bc4630.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713663457000,
+            "item": {
+                "id": 475410,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 2,
+                            "id": 2642486,
+                            "socialismId": 475410,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475410
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2642484,
+                            "socialismId": 475410,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475410
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2642482,
+                            "socialismId": 475410,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 475410
+                        }
+                    ]
+                },
+                "body": "I had purchased this product because my cousins swear it was the greatest thing since sliced bread. Yes, it is a cool gadget and simulator, but it's not consistent. My first issue was when I was using it I didn't have enough lighting (fair enough). When I brought it the driving range with better lighting it worked, but it didn't pick up all my shots (not a problem). I'm using it more often with proper lighting and all at work on my down time and using both the recommended Rapsodo Callaway balls, range balls, and even foam practice balls and AGAIN all are not consistently getting picked up by this product. I'm not too sure if I had just gotten a bad unit, but I definitely wish I had gotten the Garmen R10 which on the plus side would have synced with my Garmen S70 watch. Overall, I really wouldn't recommend this product to anyone.",
+                "childEntities": [],
+                "createdTime": 1713663457000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": true,
+                "lastCreatorEdit": 1713663828000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "3",
+                    "stars": "2"
+                },
+                "modifiedTime": 1713663828000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Overhype",
+                "url": "/review/475410",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 1
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 2,
+                "lastBrandComment": 1715016810000,
+                "lastUserActivity": 1713663828000,
+                "placements": [],
+                "commentData": {
+                    "comments": [
+                        {
+                            "id": 44899,
+                            "socialismId": 475410,
+                            "body": "Hi Chris, I am sorry to hear about some of your issues.  I am sure we can figure out what is causing some of the inconsistencies.  Feel free to reach out to our support team at support@rapsodo.com.  We would love to look into it and figure out how we can get your experience to match the thousands of users who are loving their MLM2PRO!",
+                            "createdTime": 1713803213000,
+                            "edited": false,
+                            "commentStatus": "APPROVED",
+                            "voteCountDto": {
+                                "upVotes": 0,
+                                "downVotes": 0
+                            },
+                            "creatorType": "BRAND",
+                            "children": [],
+                            "creator": {
+                                "id": 6264985,
+                                "uuid": "0F801237F10D4BDEA71AC485AE4B206B",
+                                "creatorType": "BRAND",
+                                "displayName": "Rapsodo",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/93d0deb04af07e26/1710523649000/brandAvatar.png",
+                                "profileLink": "/community/rapsodo",
+                                "teamRelationships": [],
+                                "metadata": {},
+                                "hasPrivateProfile": false
+                            },
+                            "status": "APPROVED",
+                            "upVotes": 0,
+                            "downVotes": 0,
+                            "commentDate": 1713803213000,
+                            "commenter": {
+                                "id": 6264985,
+                                "displayName": "Rapsodo",
+                                "userId": 6264985,
+                                "userUuid": "0F801237F10D4BDEA71AC485AE4B206B",
+                                "metadata": {},
+                                "creatorType": "BRAND",
+                                "uuid": "0F801237F10D4BDEA71AC485AE4B206B",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/93d0deb04af07e26/1710523649000/brandAvatar.png",
+                                "profileLink": "/community/rapsodo",
+                                "teamRelationships": [],
+                                "orgRep": true
+                            },
+                            "orgRep": true,
+                            "reviewId": 475410
+                        },
+                        {
+                            "id": 45278,
+                            "socialismId": 475410,
+                            "body": "Hi Chris, just wanted to follow up on this.  After reviewing with our support team, it looks like the alignment from the unit to the ball is a bit off in your sessions.  The MLM2PRO should sit 6.5-8ft behind the ball.  You will be able to use both the shot vision with the line and yellow alignment box, as well at the impact vision camera to make sure the ball is in the frame.  Our support team sent an email to you but never received a response.  We would love to test out the proper alignment with you and see if that will fix your readings.",
+                            "createdTime": 1715016810000,
+                            "edited": false,
+                            "commentStatus": "APPROVED",
+                            "voteCountDto": {
+                                "upVotes": 0,
+                                "downVotes": 0
+                            },
+                            "creatorType": "BRAND",
+                            "children": [],
+                            "creator": {
+                                "id": 6264985,
+                                "uuid": "0F801237F10D4BDEA71AC485AE4B206B",
+                                "creatorType": "BRAND",
+                                "displayName": "Rapsodo",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/93d0deb04af07e26/1710523649000/brandAvatar.png",
+                                "profileLink": "/community/rapsodo",
+                                "teamRelationships": [],
+                                "metadata": {},
+                                "hasPrivateProfile": false
+                            },
+                            "status": "APPROVED",
+                            "upVotes": 0,
+                            "downVotes": 0,
+                            "commentDate": 1715016810000,
+                            "commenter": {
+                                "id": 6264985,
+                                "displayName": "Rapsodo",
+                                "userId": 6264985,
+                                "userUuid": "0F801237F10D4BDEA71AC485AE4B206B",
+                                "metadata": {},
+                                "creatorType": "BRAND",
+                                "uuid": "0F801237F10D4BDEA71AC485AE4B206B",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/93d0deb04af07e26/1710523649000/brandAvatar.png",
+                                "profileLink": "/community/rapsodo",
+                                "teamRelationships": [],
+                                "orgRep": true
+                            },
+                            "orgRep": true,
+                            "reviewId": 475410
+                        }
+                    ]
+                },
+                "creatorData": {
+                    "id": 4285385,
+                    "uuid": "52E964D60E57422BAFF0F323C570647F",
+                    "creatorType": "USER",
+                    "displayName": "Chris V.",
+                    "firstName": "Chris",
+                    "lastName": "V.",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1550798431/acy5zq5boci5rjtzemyx.jpg",
+                    "profileLink": "/user/52E964D60E57422BAFF0F323C570647F/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1110,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "U.S. Air Force - Military",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/127937/contrib/images/AIRFORCE.jpg?m=1341238192000",
+                            "teamKey": "usairforce",
+                            "teamPrivateToProfile": false,
+                            "orgId": 127937,
+                            "status": "ACTIVE",
+                            "creationDate": "2018-04-14T18:00:00-0600",
+                            "expirationDate": "2025-08-02T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 55,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Fire and Rescue",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/fireAndRescue2.jpg?m=1367964397000",
+                            "teamKey": "fireandrescue",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-08-02T18:00:00-0600",
+                            "expirationDate": "2025-08-02T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "true",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-02-19T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "true"
+                    },
+                    "fullName": "Chris V.",
+                    "hasPrivateProfile": true
+                },
+                "entityData": {
+                    "id": "7779427188885",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 557750,
+                    "ownerDescription": "Rapsodo",
+                    "ownerKey": "rapsodo",
+                    "description": "MLM2PRO + PREMIUM MEMBERSHIP",
+                    "imageFilename": "Image.png",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/rapsodo/images/product/src/sc.400.400.bf/Image.png",
+                    "url": "/product/rapsodo-mlm2pro-premium-membership/557750?p=7779427188885",
+                    "metadata": {
+                        "currentDescription": "MLM2PRO + PREMIUM MEMBERSHIP",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/rapsodo/images/product/src/sc.400.400.bf/Image.png",
+                        "currentImageFile": "Image.png"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713452222000,
+            "item": {
+                "id": 474990,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713452158/baf1lzi2d0golci7yi5b.jpg",
+                                    "cropX": 0,
+                                    "cropY": 219,
+                                    "cropWidth": 1512,
+                                    "cropHeight": 1512,
+                                    "sortOrder": 0,
+                                    "id": 33289,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_0,y_219/c_limit,h_450,q_auto:good,w_450/v1713452158/baf1lzi2d0golci7yi5b.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_0,y_219/c_limit,h_650,q_auto:best,w_650/v1713452158/baf1lzi2d0golci7yi5b.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713452180/ytkpn4fc9likcixj75oz.jpg",
+                                    "cropX": 299,
+                                    "cropY": 0,
+                                    "cropWidth": 1512,
+                                    "cropHeight": 1512,
+                                    "sortOrder": 1,
+                                    "id": 33290,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_299,y_0/c_limit,h_450,q_auto:good,w_450/v1713452180/ytkpn4fc9likcixj75oz.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_299,y_0/c_limit,h_650,q_auto:best,w_650/v1713452180/ytkpn4fc9likcixj75oz.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713452197/d2fotzfj8101yryb1w8b.jpg",
+                                    "cropX": 0,
+                                    "cropY": 189,
+                                    "cropWidth": 1512,
+                                    "cropHeight": 1512,
+                                    "sortOrder": 2,
+                                    "id": 33291,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_0,y_189/c_limit,h_450,q_auto:good,w_450/v1713452197/d2fotzfj8101yryb1w8b.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_0,y_189/c_limit,h_650,q_auto:best,w_650/v1713452197/d2fotzfj8101yryb1w8b.jpg"
+                                    }
+                                },
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1713452209/wmbwr2q25or5igpbrwrp.jpg",
+                                    "cropX": 0,
+                                    "cropY": 68,
+                                    "cropWidth": 1512,
+                                    "cropHeight": 1512,
+                                    "sortOrder": 3,
+                                    "id": 33292,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_0,y_68/c_limit,h_450,q_auto:good,w_450/v1713452209/wmbwr2q25or5igpbrwrp.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_1512,w_1512,x_0,y_68/c_limit,h_650,q_auto:best,w_650/v1713452209/wmbwr2q25or5igpbrwrp.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2639661,
+                            "socialismId": 474990,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474990
+                        }
+                    ],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2639658,
+                            "socialismId": 474990,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474990
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2639655,
+                            "socialismId": 474990,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474990
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2639657,
+                            "socialismId": 474990,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474990
+                        }
+                    ]
+                },
+                "body": "I ordered the set on Sunday night and they were delivered to my front porch by Wednesday.  That is excellent order fulfillment.  The unboxing was excellent - the clubs and bag looks awesome!  The packaging is outstanding, truly impressed! I cannot wait to get these clubs out on the course.  I'll definitely update this review as soon as I have a chance to hit them.  I have read issues with the club covers being \"cheap\", I disagree.  Head covers were provided for the Driver, 3w, 5w, 4H and putter.  All seem to work well and are of nice quality.  I ordered a set of Craftsman Iron Covers for the Irons that fit well, functionally and aesthetically with the clubs and bag.  If I have one criticism of the bag, it is the bag is no longer delivered with a \"weather cover\".  Per Stix, they cut costs by eliminating it and allowing customers to requisition a cover of their choice.  Stix mentioned they expect to provide one for purchase in the future.  This is a small issue compared to the overall package.  I'll let you know how they work on the course and how the black coating holds up to use.  \n\nI did get fitted a week ago at a Callaway event.  Callaway also offers a military discount (Thank you).  However, the equivalent set would cost me over $2,300.   The \"equivalent\" set would not have a 3w or 5w etiher.  I am not a low digit golfer.  For \"bang\" for the buck, this set seems to far exceed other major manufactures (again, I still need to hit them on the course/range).  \n\nVery happy so far with my purchase.  Well done Stix.    \n\nUPDATE:  I have had the clubs to the range and played 18-holes at Myrtle Beach.  This was definitely the right purchase for me.  For the first time in years I hit my driver from the tee on all holes (except par 3's of course).  I am glad this set has a 3W and 5W.  I used them both on the greens.  The 4H is nice, but I am happy to have the 3W & 5W.  The Irons are great as well.  It also helps that I sunk a 20-ft putt on my first time putting the new putter...  shear luck, but gave me tons of confidence in my game.  Spent the next day at PopStroke in MB and used the putter there for four rounds.  Again, I have so many great things to say about this set of clubs.  I'll post up some pics after a few more rounds to show folks how the black coating wears on the club heads.",
+                "childEntities": [],
+                "createdTime": 1713452222000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": true,
+                "lastCreatorEdit": 1714656989000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "4",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1714656989000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Perform Series Complete Bundle - Graphite (14 Clubs + Bag), -.5\" • Right • Regular",
+                "url": "/review/474990",
+                "voteCountDto": {
+                    "upVotes": 1,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1714656989000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 3758656,
+                    "uuid": "64F26845A82D417FBB0F40E056FE303A",
+                    "creatorType": "USER",
+                    "displayName": "Jason Brehm",
+                    "firstName": "Jason",
+                    "lastName": "Brehm",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1667337729/jqb7sx7h1hgk03gbeimp.png",
+                    "profileLink": "/user/64F26845A82D417FBB0F40E056FE303A/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1108,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "U.S. Army - Military",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/newarmyshort.jpg?m=1378506073000",
+                            "teamKey": "usarmy",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2017-05-25T18:00:00-0600",
+                            "expirationDate": "2999-12-31T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-04-14T06:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Jason Brehm",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "6959674392642",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 542115,
+                    "ownerDescription": "Stix Golf",
+                    "ownerKey": "stixgolf",
+                    "description": "Perform Series Complete Bundle - Graphite (14 Clubs + Bag)",
+                    "imageFilename": "stix-golf-co-clubs-perform-series-complete-bundle-graphite-14-clubs-bag-30848281313346.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/stixgolf/images/product/src/sc.400.400.bf/stix-golf-co-clubs-perform-series-complete-bundle-graphite-14-clubs-bag-30848281313346.jpg",
+                    "url": "/product/stix-golf-perform-series-complete-bundle-graphite-14-clubs-bag/542115?p=6959674392642",
+                    "metadata": {
+                        "currentDescription": "Perform Series Complete Bundle - Graphite (14 Clubs + Bag)",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/stixgolf/images/product/src/sc.400.400.bf/stix-golf-co-clubs-perform-series-complete-bundle-graphite-14-clubs-bag-30848281313346.jpg",
+                        "currentImageFile": "stix-golf-co-clubs-perform-series-complete-bundle-graphite-14-clubs-bag-30848281313346.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713278025000,
+            "item": {
+                "id": 474524,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2636505,
+                            "socialismId": 474524,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474524
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2636508,
+                            "socialismId": 474524,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474524
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2636506,
+                            "socialismId": 474524,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474524
+                        }
+                    ]
+                },
+                "body": "I finally got to play my first round with these and was very impressed. I didn't have any connectivity issues, they were easy to pair with my clubs, and the used my iPhone to pick up the shot tracking. I don't think it missed a single drive, iron, or wedge shot I was very pleased. Putting was a bit trickier because it would pick up phantom puts, so I had to manually adjust either from my phone or watch, which wasn't a big deal once I noticed it happening. The app is also very useful, I love that courses are downloaded prior to the round so it's quick to get a distance on your shot. We also were comparing the distance on the app vs a range finder and it was always within 5-7 yards, which for me is close enough. You only get to try a product first one time and I was blown away with the experience. If you are on the fence about these, just go for it, you won't be upset you did it. ",
+                "childEntities": [],
+                "createdTime": 1713278025000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713278025000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713278026000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "incredible tracker",
+                "url": "/review/474524",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713278025000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6204818,
+                    "uuid": "3898D89B467144B49ED89D25E5384AC9",
+                    "creatorType": "USER",
+                    "displayName": "Colter Grote",
+                    "firstName": "Colter",
+                    "lastName": "Grote",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:CC913D,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:CG/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/3898D89B467144B49ED89D25E5384AC9/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 14,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "ExpertVoice Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/1349/contrib/images/experticitynewlogo.jpg?m=1485990696000",
+                            "teamKey": "evemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1349,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-07-24T18:00:00-0600",
+                            "expirationDate": "2024-07-23T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 520751,
+                            "teamType": "PROGRAM",
+                            "teamName": "Elite Experts 2.0",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/7a105144013b615e/1712787829000/brandAvatar.png",
+                            "teamKey": "eliteexperts21674167999",
+                            "teamPrivateToProfile": false,
+                            "orgId": 48166,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-08-23T18:00:00-0600",
+                            "expirationDate": "2024-08-22T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 303553,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "PGA of America",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/339509/contrib/images/pga2x1.png?m=1711136951000",
+                            "teamKey": "pgaofamerica",
+                            "teamPrivateToProfile": false,
+                            "orgId": 339509,
+                            "status": "EXPIRED",
+                            "creationDate": "2024-01-24T17:00:00-0700",
+                            "expirationDate": "2024-01-29T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "order_ship_date": "2023-12-18T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Colter Grote",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "6708139360331",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 360738,
+                    "ownerDescription": "Arccos Golf",
+                    "ownerKey": "arccos",
+                    "description": "Arccos Smart Sensors (GEN 3+)",
+                    "imageFilename": "SmartSensors-ProductImage-1.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/arccos/images/product/src/sc.400.400.bf/SmartSensors-ProductImage-1.jpg",
+                    "url": "/product/arccos-golf-arccos-smart-sensors-gen-3-/360738?p=6708139360331",
+                    "metadata": {
+                        "currentDescription": "Arccos Smart Sensors (GEN 3+)",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/arccos/images/product/src/sc.400.400.bf/SmartSensors-ProductImage-1.jpg",
+                        "currentImageFile": "SmartSensors-ProductImage-1.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713217379000,
+            "item": {
+                "id": 474313,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": true,
+                            "id": 2635113,
+                            "socialismId": 474313,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474313
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 4,
+                            "id": 2635114,
+                            "socialismId": 474313,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474313
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2635107,
+                            "socialismId": 474313,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474313
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2635108,
+                            "socialismId": 474313,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 474313
+                        }
+                    ]
+                },
+                "body": "The frames on these sunglasses are the lightest that I have ever worn. This leads them to be comfortable for extended wear (8+ hours). The lenses have the great quality and clarity that one would expect from Vortex products. The only change that I would make to these sunglasses would be more grip texturing on the arms of the sunglasses to keep them from moving around while sweating heavily. All in all, these are great durable sunglasses for all day wear.\nI received the eyewear early from Vortex to use and test.\nVortex Optics gave me this free product to try.",
+                "childEntities": [],
+                "createdTime": 1713217379000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": true,
+                "lastCreatorEdit": 1713217759000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "8",
+                    "stars": "4"
+                },
+                "modifiedTime": 1713217759000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Incredibly light weight frames",
+                "url": "/review/474313",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713217759000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5531151,
+                    "uuid": "1E779AB8E6674453AA8FD9EF39026CBB",
+                    "creatorType": "USER",
+                    "displayName": "Connor Goble",
+                    "firstName": "Connor",
+                    "lastName": "Goble",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1713271783/oshp6j0liuv1dp7smsvi.jpg",
+                    "profileLink": "/user/1E779AB8E6674453AA8FD9EF39026CBB/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 8256,
+                            "teamType": "RETAIL",
+                            "teamName": "Bass Pro Shops - Outdoor World Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/1719/contrib/images/basspro2x1.png?m=1666035372000",
+                            "teamKey": "basspro",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1719,
+                            "status": "ACTIVE",
+                            "creationDate": "2021-03-31T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 56,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Law Enforcement",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/lawEnforcement.jpg?m=1341238192000",
+                            "teamKey": "lawenforcement",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-03-09T17:00:00-0700",
+                            "expirationDate": "2025-03-09T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 452705,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Delta Waterfowl Foundation",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/486586/contrib/images/delta_waterfowl_0919.png?m=1569609644000",
+                            "teamKey": "dwftier1",
+                            "teamPrivateToProfile": false,
+                            "orgId": 486586,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-04-07T18:00:00-0600",
+                            "expirationDate": "2025-04-07T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "brand_certified": "true"
+                    },
+                    "fullName": "Connor Goble",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "Search products",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 89845,
+                    "ownerDescription": "Vortex Optics",
+                    "ownerKey": "vortexoptics",
+                    "metadata": {}
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1713055918000,
+            "item": {
+                "id": 473907,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2632387,
+                            "socialismId": 473907,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473907
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2632384,
+                            "socialismId": 473907,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473907
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2632388,
+                            "socialismId": 473907,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 473907
+                        }
+                    ]
+                },
+                "body": "These glasses are unreal. They relax you eyes from strain. I live in Phoenix Arizona, so I wish I would have gotten the darker lens version for golf, but by no means and I disappointed. Here is the thing: I use these glasses primarily for golf. I use a yellow golf ball. Sometimes I lose the ball on the flight down after a shot. But that's not the glasses fault. I live in Phoenix AZ. There is nothing you can do other than getting a pair of dark polarized lenses that will help you down Phoenix. However, these glasses are great on the green and in and around shadows. Plus you can wear these indoors. They seem to relax my mind as well. ",
+                "childEntities": [],
+                "createdTime": 1713055918000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1713055918000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713055919000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Relaxes The Eyes and Mind",
+                "url": "/review/473907",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1713055918000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5655874,
+                    "uuid": "5229D03F2C7440B8A4C5E9693AA9ED9C",
+                    "creatorType": "USER",
+                    "displayName": "John M.",
+                    "firstName": "John",
+                    "lastName": "M.",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:99C8E0,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JM/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/5229D03F2C7440B8A4C5E9693AA9ED9C/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 89739,
+                            "teamType": "RETAIL",
+                            "teamName": "Dick's Sporting Goods Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/100064/contrib/images/logo_DicksSportingGoods.png?m=1470864291000",
+                            "teamKey": "dickssportinggoodsretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 100064,
+                            "status": "ACTIVE",
+                            "creationDate": "2021-08-22T18:00:00-0600",
+                            "expirationDate": "2024-12-12T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 518097,
+                            "teamType": "PROGRAM",
+                            "teamName": "TMpractice",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/da34d088fa180793/1712614537000/brandAvatar.png",
+                            "teamKey": "tmpractice1667500531",
+                            "teamPrivateToProfile": false,
+                            "orgId": 170661,
+                            "status": "EXPIRED",
+                            "creationDate": "2023-03-02T17:00:00-0700",
+                            "expirationDate": "2024-03-02T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "true",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-02-23T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "John M.",
+                    "hasPrivateProfile": true
+                },
+                "entityData": {
+                    "id": "0OO9188",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 76222,
+                    "ownerDescription": "Oakley",
+                    "ownerKey": "oakley",
+                    "description": "FLAK&#8482; 2.0 XL",
+                    "imageFilename": "0OO9188__9188H2_030A.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/0OO9188__9188H2_030A.jpg",
+                    "url": "/product/oakley-flak-8482-2-0-xl/76222?p=0OO9188",
+                    "metadata": {
+                        "currentDescription": "FLAK&#8482; 2.0 XL",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/oakley/images/product/src/sc.400.400.bf/0OO9188__9188H2_030A.jpg",
+                        "currentImageFile": "0OO9188__9188H2_030A.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1712493868000,
+            "item": {
+                "id": 472365,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1712493844/bpycaobyhbyvmrrfuifj.jpg",
+                                    "cropX": 0,
+                                    "cropY": 0,
+                                    "cropWidth": 2400,
+                                    "cropHeight": 2400,
+                                    "sortOrder": 0,
+                                    "id": 32967,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_0/c_limit,h_450,q_auto:good,w_450/v1712493844/bpycaobyhbyvmrrfuifj.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_0/c_limit,h_650,q_auto:best,w_650/v1712493844/bpycaobyhbyvmrrfuifj.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2622009,
+                            "socialismId": 472365,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 472365
+                        }
+                    ],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2622010,
+                            "socialismId": 472365,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 472365
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2622016,
+                            "socialismId": 472365,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 472365
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2622015,
+                            "socialismId": 472365,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 472365
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2622013,
+                            "socialismId": 472365,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 472365
+                        }
+                    ]
+                },
+                "body": "New and improved wedges  \n\nEspecially the Low Bounce Option !!\n\nI pick the Golf Ball so a Lower Leading Edge is perfect for my setup and vision.\n\nLess Mental thoughts of blading the ball or hitting it thin \n\nGreat Groove pattern, and an all around club that I and use in the Fairway, Rough or Sand Traps \n\nI obtained a 58 Degree Low Bounce 6 Degree\nand 54 Mid Grind 10 Degree Bounce\n",
+                "childEntities": [],
+                "createdTime": 1712493868000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1712493868000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1712493869000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "The New Clever Wedge Series of Clubs are Outstanding !!",
+                "url": "/review/472365",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1712493868000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6297005,
+                    "uuid": "EAC14D15914A4A80847B964C448D928B",
+                    "creatorType": "USER",
+                    "displayName": "Rodney Sachs",
+                    "firstName": "Rodney",
+                    "lastName": "Sachs",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:99536A,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:RS/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/EAC14D15914A4A80847B964C448D928B/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 89739,
+                            "teamType": "RETAIL",
+                            "teamName": "Dick's Sporting Goods Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/100064/contrib/images/logo_DicksSportingGoods.png?m=1470864291000",
+                            "teamKey": "dickssportinggoodsretailemployees",
+                            "teamPrivateToProfile": false,
+                            "orgId": 100064,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-01-08T17:00:00-0700",
+                            "expirationDate": "2025-01-07T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "false",
+                        "private_profile": "false",
+                        "default_avatar": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Rodney Sachs",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "MRTX6ZCTS",
+                    "alternateIds": [
+                        "MRTX6ZCTS-CA"
+                    ],
+                    "entityType": "PRODUCT",
+                    "ownerId": 187468,
+                    "ownerDescription": "Srixon / Cleveland Golf / XXIO",
+                    "ownerKey": "clevelandgolf",
+                    "description": "RTX 6 ZipCore Tour Satin Wedge",
+                    "imageFilename": "CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/clevelandgolf/images/product/src/sc.400.400.bf/CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg",
+                    "url": "/product/srixon-cleveland-golf-xxio-rtx-6-zipcore-tour-satin-wedge/187468?p=MRTX6ZCTS",
+                    "metadata": {
+                        "currentDescription": "RTX 6 ZipCore Tour Satin Wedge",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/clevelandgolf/images/product/src/sc.400.400.bf/CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg",
+                        "currentImageFile": "CG23-Clubs-Wedges-RTX6-Zipcore-Tour-Satin.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1712012832000,
+            "item": {
+                "id": 471183,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_0/c_limit,h_450,q_auto:good,w_450/v1712012811/bt53fwsydvla3snf9gal.jpg",
+                                    "cropX": 0,
+                                    "cropY": 0,
+                                    "cropWidth": 2400,
+                                    "cropHeight": 2400,
+                                    "sortOrder": 0,
+                                    "id": 33275,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_0/c_limit,h_450,q_auto:good,w_450/v1712012811/bt53fwsydvla3snf9gal.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_2400,w_2400,x_0,y_0/c_limit,h_650,q_auto:best,w_650/v1712012811/bt53fwsydvla3snf9gal.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2614029,
+                            "socialismId": 471183,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 471183
+                        }
+                    ],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [
+                        {
+                            "attributeKey": "isIncentivized",
+                            "value": false,
+                            "id": 2614032,
+                            "socialismId": 471183,
+                            "attributeType": "BOOLEAN",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 471183
+                        }
+                    ],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2614026,
+                            "socialismId": 471183,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 471183
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2614034,
+                            "socialismId": 471183,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 471183
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                3
+                            ],
+                            "id": 2614028,
+                            "socialismId": 471183,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 471183
+                        }
+                    ]
+                },
+                "body": "UPDATE\n\nWas excited to get this and try it out, but the day I received it I noticed the plastic piece that secures the battery is broken and will not latch. Super frustrated. Sent an email to expert voice and waiting to hear what the resolution is. Original one star rating. \n\nWith the assistance from expert voice employees, contact was made with Shot Scope who sent a non faulty product. I have since used the product and it works great. Since they handled the issue in a timely manner and I enjoy the product, I am changing my rating to a 5 star. \n\n",
+                "childEntities": [],
+                "createdTime": 1712012832000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": true,
+                "lastCreatorEdit": 1713380400000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1713380401000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "ARRIVED DAMAGED - plastic piece that secures battery compartment. ",
+                "url": "/review/471183",
+                "voteCountDto": {
+                    "upVotes": 0,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 3,
+                "lastUserComment": 1712382724000,
+                "lastBrandComment": 1713471950000,
+                "lastUserActivity": 1713380400000,
+                "placements": [],
+                "commentData": {
+                    "comments": [
+                        {
+                            "id": 44351,
+                            "socialismId": 471183,
+                            "body": "Hi J R. Sorry to hear your PRO L2 is faulty! Can you email support@shotscope.com and they will send you a replacement straight away. It is very rare for our PRO L2 ragfinders to have a fault, I apologize for the inconvenience.",
+                            "createdTime": 1712303650000,
+                            "edited": false,
+                            "commentStatus": "APPROVED",
+                            "voteCountDto": {
+                                "upVotes": 0,
+                                "downVotes": 0
+                            },
+                            "creatorType": "BRAND",
+                            "children": [],
+                            "creator": {
+                                "id": 6109978,
+                                "uuid": "D14CC3E88B9F4D51AB50D03057DC53A3",
+                                "creatorType": "BRAND",
+                                "displayName": "Shot Scope",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/477422897a485161/1712676103000/brandAvatar.png",
+                                "profileLink": "/community/shotscope",
+                                "teamRelationships": [],
+                                "metadata": {},
+                                "hasPrivateProfile": false
+                            },
+                            "status": "APPROVED",
+                            "upVotes": 0,
+                            "downVotes": 0,
+                            "commentDate": 1712303650000,
+                            "commenter": {
+                                "id": 6109978,
+                                "displayName": "Shot Scope",
+                                "userId": 6109978,
+                                "userUuid": "D14CC3E88B9F4D51AB50D03057DC53A3",
+                                "metadata": {},
+                                "creatorType": "BRAND",
+                                "uuid": "D14CC3E88B9F4D51AB50D03057DC53A3",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/477422897a485161/1712676103000/brandAvatar.png",
+                                "profileLink": "/community/shotscope",
+                                "teamRelationships": [],
+                                "orgRep": true
+                            },
+                            "orgRep": true,
+                            "reviewId": 471183
+                        },
+                        {
+                            "id": 44397,
+                            "socialismId": 471183,
+                            "body": "Hello, yes I did this. When I receive the part / non faulty rangefinder I will be sure to update my review. I hope it gets handled in a timely matter.",
+                            "createdTime": 1712382724000,
+                            "edited": false,
+                            "commentStatus": "APPROVED",
+                            "voteCountDto": {
+                                "upVotes": 0,
+                                "downVotes": 0
+                            },
+                            "children": [],
+                            "creator": {
+                                "id": 6207693,
+                                "uuid": "E6855E8C4F124E11A38058ABEFBA4190",
+                                "creatorType": "USER",
+                                "displayName": "J R.",
+                                "firstName": "J",
+                                "lastName": "R.",
+                                "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:7879B0,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JR/v1614801417/lite-gray_iqaexe.png",
+                                "profileLink": "/user/E6855E8C4F124E11A38058ABEFBA4190/profile",
+                                "teamRelationships": [],
+                                "metadata": {
+                                    "ordered": "true",
+                                    "private_profile": "true",
+                                    "order_ship_date": "2024-03-28T06:00:00.000Z",
+                                    "verified_product_owner": "true",
+                                    "brand_certified": "false"
+                                },
+                                "fullName": "J R.",
+                                "hasPrivateProfile": true
+                            },
+                            "status": "APPROVED",
+                            "upVotes": 0,
+                            "downVotes": 0,
+                            "commentDate": 1712382724000,
+                            "commenter": {
+                                "id": 6207693,
+                                "displayName": "J R.",
+                                "fullName": "J R.",
+                                "userId": 6207693,
+                                "userUuid": "E6855E8C4F124E11A38058ABEFBA4190",
+                                "metadata": {
+                                    "ordered": "true",
+                                    "private_profile": "true",
+                                    "order_ship_date": "2024-03-28T06:00:00.000Z",
+                                    "verified_product_owner": "true",
+                                    "brand_certified": "false"
+                                },
+                                "creatorType": "USER",
+                                "uuid": "E6855E8C4F124E11A38058ABEFBA4190",
+                                "lastName": "R.",
+                                "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:7879B0,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JR/v1614801417/lite-gray_iqaexe.png",
+                                "profileLink": "/user/E6855E8C4F124E11A38058ABEFBA4190/profile",
+                                "teamRelationships": [],
+                                "firstName": "J",
+                                "orgRep": false
+                            },
+                            "orgRep": false,
+                            "reviewId": 471183
+                        },
+                        {
+                            "id": 44864,
+                            "socialismId": 471183,
+                            "body": "Thank you for updating your review and glad our team sorted it out. Happy Golfing",
+                            "createdTime": 1713471950000,
+                            "edited": false,
+                            "commentStatus": "APPROVED",
+                            "voteCountDto": {
+                                "upVotes": 0,
+                                "downVotes": 0
+                            },
+                            "creatorType": "BRAND",
+                            "children": [],
+                            "creator": {
+                                "id": 6109978,
+                                "uuid": "D14CC3E88B9F4D51AB50D03057DC53A3",
+                                "creatorType": "BRAND",
+                                "displayName": "Shot Scope",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/477422897a485161/1712676103000/brandAvatar.png",
+                                "profileLink": "/community/shotscope",
+                                "teamRelationships": [],
+                                "metadata": {},
+                                "hasPrivateProfile": false
+                            },
+                            "status": "APPROVED",
+                            "upVotes": 0,
+                            "downVotes": 0,
+                            "commentDate": 1713471950000,
+                            "commenter": {
+                                "id": 6109978,
+                                "displayName": "Shot Scope",
+                                "userId": 6109978,
+                                "userUuid": "D14CC3E88B9F4D51AB50D03057DC53A3",
+                                "metadata": {},
+                                "creatorType": "BRAND",
+                                "uuid": "D14CC3E88B9F4D51AB50D03057DC53A3",
+                                "avatarLink": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/477422897a485161/1712676103000/brandAvatar.png",
+                                "profileLink": "/community/shotscope",
+                                "teamRelationships": [],
+                                "orgRep": true
+                            },
+                            "orgRep": true,
+                            "reviewId": 471183
+                        }
+                    ]
+                },
+                "creatorData": {
+                    "id": 6207693,
+                    "uuid": "E6855E8C4F124E11A38058ABEFBA4190",
+                    "creatorType": "USER",
+                    "displayName": "J R.",
+                    "firstName": "J",
+                    "lastName": "R.",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/co_rgb:7879B0,e_colorize,h_200,w_200/co_rgb:FFF,l_text:Source%20Sans%20Pro_90_bold:JR/v1614801417/lite-gray_iqaexe.png",
+                    "profileLink": "/user/E6855E8C4F124E11A38058ABEFBA4190/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 56,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Law Enforcement",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/lawEnforcement.jpg?m=1341238192000",
+                            "teamKey": "lawenforcement",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2023-07-28T18:00:00-0600",
+                            "expirationDate": "2026-07-28T18:00:00-0600"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "true",
+                        "default_avatar": "true",
+                        "order_ship_date": "2024-03-28T06:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "J R.",
+                    "hasPrivateProfile": true
+                },
+                "entityData": {
+                    "id": "SS-LSR-L2",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 552129,
+                    "ownerDescription": "Shot Scope",
+                    "ownerKey": "shotscope",
+                    "description": "Shot Scope PRO L2 Laser Rangefinder",
+                    "imageFilename": "SS-LSR-L2-BLE_2.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/shotscope/images/product/src/sc.400.400.bf/SS-LSR-L2-BLE_2.jpg",
+                    "url": "/product/shot-scope-shot-scope-pro-l2-laser-rangefinder/552129?p=SS-LSR-L2",
+                    "metadata": {
+                        "currentDescription": "Shot Scope PRO L2 Laser Rangefinder",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/shotscope/images/product/src/sc.400.400.bf/SS-LSR-L2-BLE_2.jpg",
+                        "currentImageFile": "SS-LSR-L2-BLE_2.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1711635728000,
+            "item": {
+                "id": 470372,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [
+                        {
+                            "attributeKey": "videos",
+                            "value": [
+                                {
+                                    "duration": 56,
+                                    "sortOrder": 0,
+                                    "thumbnailUrl": "https://res.cloudinary.com/experticity/video/upload/v1711597436/gizmd1keqlqvhsipeeyg.png",
+                                    "url": "https://res.cloudinary.com/experticity/video/upload/v1711597436/gizmd1keqlqvhsipeeyg.mp4",
+                                    "variations": [
+                                        {
+                                            "type": "m3u8",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/sp_4k/v1711597436/gizmd1keqlqvhsipeeyg.m3u8",
+                                            "id": 2113,
+                                            "videoId": 640
+                                        },
+                                        {
+                                            "type": "mpd",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/sp_4k/v1711597436/gizmd1keqlqvhsipeeyg.mpd",
+                                            "id": 2114,
+                                            "videoId": 640
+                                        },
+                                        {
+                                            "type": "mp4",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/vc_auto/v1711597436/gizmd1keqlqvhsipeeyg.mp4",
+                                            "id": 2115,
+                                            "videoId": 640
+                                        },
+                                        {
+                                            "type": "mp4",
+                                            "url": "https://res.cloudinary.com/experticity/video/upload/fl_attachment/v1711597436/gizmd1keqlqvhsipeeyg.mp4",
+                                            "id": 2116,
+                                            "videoId": 640
+                                        }
+                                    ],
+                                    "id": 640
+                                }
+                            ],
+                            "id": 2608586,
+                            "socialismId": 470372,
+                            "attributeType": "VIDEO",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 470372
+                        }
+                    ],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2608582,
+                            "socialismId": 470372,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 470372
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2608583,
+                            "socialismId": 470372,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 470372
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                1
+                            ],
+                            "id": 2608584,
+                            "socialismId": 470372,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 470372
+                        }
+                    ]
+                },
+                "body": "At this price point and feature list, it is hard to compete with the MLM2Pro. The next step up will cost you thousands for about the same data or less and slightly better simulation/integration. Albeit, it is not perfect (occasional connection issues, MLM2Pro app can be finicky) but it has so much to offer! It can provide you baseline numbers to get your clubs dialed in and also provide simulation capabilities via in-app or Awesome Golf or E6 Connect. The in-app practice mode can record both DTL and Face On views, the Combine mode can help you lower your hcp, RCT balls dial-in your spin rate/axis, and so much more. I'll be hardpressed to find an alternative to this at the price point and feature list. 9/10 ",
+                "childEntities": [],
+                "createdTime": 1711635728000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1711635728000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "0",
+                    "videoCount": "1",
+                    "rating": "9",
+                    "stars": "5"
+                },
+                "modifiedTime": 1711635728000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Feature packed! Budget friendly!",
+                "url": "/review/470372",
+                "voteCountDto": {
+                    "upVotes": 4,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1711635728000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 6378489,
+                    "uuid": "A3BE0B18363B4868B58A6B09893128F9",
+                    "creatorType": "USER",
+                    "displayName": "John Kirby Cadaing",
+                    "firstName": "John Kirby",
+                    "lastName": "Cadaing",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1711769279/wddtrwtrqfhiyb8nei7h.jpg",
+                    "profileLink": "/user/A3BE0B18363B4868B58A6B09893128F9/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 1110,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "U.S. Air Force - Military",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/partner/127937/contrib/images/AIRFORCE.jpg?m=1341238192000",
+                            "teamKey": "usairforce",
+                            "teamPrivateToProfile": false,
+                            "orgId": 127937,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-26T17:00:00-0700",
+                            "expirationDate": "2099-02-17T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "false",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-03-06T07:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "true"
+                    },
+                    "fullName": "John Kirby Cadaing",
+                    "hasPrivateProfile": false
+                },
+                "entityData": {
+                    "id": "7779427188885",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 557750,
+                    "ownerDescription": "Rapsodo",
+                    "ownerKey": "rapsodo",
+                    "description": "MLM2PRO + PREMIUM MEMBERSHIP",
+                    "imageFilename": "Image.png",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/rapsodo/images/product/src/sc.400.400.bf/Image.png",
+                    "url": "/product/rapsodo-mlm2pro-premium-membership/557750?p=7779427188885",
+                    "metadata": {
+                        "currentDescription": "MLM2PRO + PREMIUM MEMBERSHIP",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/rapsodo/images/product/src/sc.400.400.bf/Image.png",
+                        "currentImageFile": "Image.png"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        },
+        {
+            "itemType": "RECOMMENDATION",
+            "reason": "RECENT",
+            "time": 1711440763000,
+            "item": {
+                "id": 469885,
+                "attributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [
+                        {
+                            "attributeKey": "images",
+                            "value": [
+                                {
+                                    "url": "https://res.cloudinary.com/experticity/image/upload/v1711440746/axbplcbwab7ob2lmqls8.jpg",
+                                    "cropX": 0,
+                                    "cropY": 504,
+                                    "cropWidth": 3024,
+                                    "cropHeight": 3024,
+                                    "sortOrder": 0,
+                                    "id": 32639,
+                                    "variations": {
+                                        "mobile": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_504/c_limit,h_450,q_auto:good,w_450/v1711440746/axbplcbwab7ob2lmqls8.jpg",
+                                        "desktop": "https://res.cloudinary.com/experticity/image/upload/c_crop,h_3024,w_3024,x_0,y_504/c_limit,h_650,q_auto:best,w_650/v1711440746/axbplcbwab7ob2lmqls8.jpg"
+                                    }
+                                }
+                            ],
+                            "id": 2605311,
+                            "socialismId": 469885,
+                            "attributeType": "IMAGE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 469885
+                        }
+                    ],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [
+                        {
+                            "attributeKey": "stars",
+                            "value": 5,
+                            "id": 2605313,
+                            "socialismId": 469885,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 469885
+                        },
+                        {
+                            "attributeKey": "category",
+                            "value": 15,
+                            "id": 2605314,
+                            "socialismId": 469885,
+                            "attributeType": "NUMERIC",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 469885
+                        }
+                    ],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": [
+                        {
+                            "attributeKey": "familiarity",
+                            "value": [
+                                2
+                            ],
+                            "id": 2605309,
+                            "socialismId": 469885,
+                            "attributeType": "MULTIPLE_CHOICE",
+                            "privacyLevel": "PUBLIC",
+                            "reviewId": 469885
+                        }
+                    ]
+                },
+                "body": "This rangefinder is some the best quality and the amount information this device can give in a moment is incredible and then paired with the Bushnell app on your phone you can sync the rangefinder, while keeping track of your score on the app and being able to see the full Birds Eye view of each hole on the course you are playing on so you know your aligned properly towards the pin!",
+                "childEntities": [],
+                "createdTime": 1711440763000,
+                "creatorType": "USER",
+                "archived": false,
+                "edited": false,
+                "lastCreatorEdit": 1711440763000,
+                "entityType": "PRODUCT",
+                "format": "TEXT",
+                "metadata": {
+                    "imageCount": "1",
+                    "videoCount": "0",
+                    "rating": "10",
+                    "stars": "5"
+                },
+                "modifiedTime": 1711440763000,
+                "recordType": "REVIEW",
+                "status": "APPROVED",
+                "syndicationData": {
+                    "userData": {
+                        "avatarIsDefault": false,
+                        "credentials": [],
+                        "affiliations": [],
+                        "accomplishments": [],
+                        "verifiedOwner": false,
+                        "brandCertified": false
+                    }
+                },
+                "title": "Best Rangefinder on the Market!!!",
+                "url": "/review/469885",
+                "voteCountDto": {
+                    "upVotes": 1,
+                    "downVotes": 0
+                },
+                "annotations": [],
+                "contentFlags": [],
+                "isPrivate": false,
+                "commentCount": 0,
+                "lastUserActivity": 1711440763000,
+                "placements": [],
+                "commentData": {
+                    "comments": []
+                },
+                "creatorData": {
+                    "id": 5847534,
+                    "uuid": "24AA20CF0633483681A52224D715D8EC",
+                    "creatorType": "USER",
+                    "displayName": "Kyle R.",
+                    "firstName": "Kyle",
+                    "lastName": "R.",
+                    "avatarLink": "https://res.cloudinary.com/experticity/image/upload/c_fill,g_auto,h_200,w_200/v1708965689/zxszdzsn9sdu5puz8qvr.jpg",
+                    "profileLink": "/user/24AA20CF0633483681A52224D715D8EC/profile",
+                    "teamRelationships": [
+                        {
+                            "teamId": 55,
+                            "teamType": "PROMOTIVE",
+                            "teamName": "Fire and Rescue",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/3point5//contrib/images/fireAndRescue2.jpg?m=1367964397000",
+                            "teamKey": "fireandrescue",
+                            "teamPrivateToProfile": false,
+                            "orgId": 1,
+                            "status": "ACTIVE",
+                            "creationDate": "2022-04-10T18:00:00-0600",
+                            "expirationDate": "2025-04-10T18:00:00-0600"
+                        },
+                        {
+                            "teamId": 13975,
+                            "teamType": "RETAIL",
+                            "teamName": "Worldwide Golf Retail Employees",
+                            "teamImageUrl": "https://cdn.expertvoice.com/contrib/retailer/10682/contrib/images/logocollage.png?m=1705599817000",
+                            "teamKey": "worldwidegolf",
+                            "teamPrivateToProfile": false,
+                            "orgId": 10682,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-20T17:00:00-0700",
+                            "expirationDate": "2025-02-19T17:00:00-0700"
+                        },
+                        {
+                            "teamId": 518097,
+                            "teamType": "PROGRAM",
+                            "teamName": "TMpractice",
+                            "teamImageUrl": "https://cdn.expertvoice.com/xapi/xds/ext/gimg/da34d088fa180793/1710889054000/brandAvatar.png",
+                            "teamKey": "tmpractice1667500531",
+                            "teamPrivateToProfile": false,
+                            "orgId": 170661,
+                            "status": "ACTIVE",
+                            "creationDate": "2024-02-28T17:00:00-0700",
+                            "expirationDate": "2025-02-27T17:00:00-0700"
+                        }
+                    ],
+                    "metadata": {
+                        "ordered": "true",
+                        "private_profile": "true",
+                        "default_avatar": "false",
+                        "order_ship_date": "2024-03-21T06:00:00.000Z",
+                        "verified_product_owner": "true",
+                        "brand_certified": "false"
+                    },
+                    "fullName": "Kyle R.",
+                    "hasPrivateProfile": true
+                },
+                "entityData": {
+                    "id": "202450",
+                    "alternateIds": [],
+                    "entityType": "PRODUCT",
+                    "ownerId": 445086,
+                    "ownerDescription": "Bushnell Golf",
+                    "ownerKey": "bushnellgolf",
+                    "description": "Pro X3+ Laser Rangefinder",
+                    "imageFilename": "BG-ProX3Plus_202450_Slope_Front.jpg",
+                    "imageUrl": "https://cdn.expertvoice.com/io/client/mfg/bushnellgolf/images/product/src/sc.400.400.bf/BG-ProX3Plus_202450_Slope_Front.jpg",
+                    "url": "/product/bushnell-golf-pro-x3-laser-rangefinder/445086?p=202450",
+                    "metadata": {
+                        "currentDescription": "Pro X3+ Laser Rangefinder",
+                        "currentImageUrl": "https://cdn.expertvoice.com/io/client/mfg/bushnellgolf/images/product/src/sc.400.400.bf/BG-ProX3Plus_202450_Slope_Front.jpg",
+                        "currentImageFile": "BG-ProX3Plus_202450_Slope_Front.jpg"
+                    }
+                },
+                "private": false,
+                "internalAttributes": {
+                    "INTRINSIC": [],
+                    "IMAGE": [],
+                    "TEXT_LIST": [],
+                    "VIDEO": [],
+                    "BOOLEAN": [],
+                    "NUMERIC": [],
+                    "TEXT": [],
+                    "MULTIPLE_CHOICE": []
+                }
+            }
+        }
+    ]
+}
